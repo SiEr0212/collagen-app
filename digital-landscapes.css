@@ -28,6 +28,8 @@ html {
   z-index: 5;
 }
 
+
+
 .pollen3 {
   position: fixed;
   top: 264px;
@@ -36,11 +38,31 @@ html {
   z-index: 0;
 }
 
+.pollen3 :hover {
+  animation: thirdPollen 6s infinite linear;
+
+}
+
 /* a :hover {
   animation: like 6s infinite linear;
   z-index: 6;
 } */
 
+
+@keyframes like {
+  0% {
+    animation-timing-function: ease-in;
+    transform: rotate(0deg) scale(1);
+  }
+  25% {
+    animation-timing-function: ease-out;
+    transform: rotate(-180deg) scale(1.3);
+  }
+  50%,
+  100% {
+    transform: rotate(-360deg) scale(1);
+  }
+} ;
 
 @keyframes like {
   0% {
