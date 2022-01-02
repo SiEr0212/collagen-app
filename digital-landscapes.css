@@ -26,7 +26,10 @@ html {
   max-height: 63%;
   z-index: 5;
 }
-
+.pollen2 :hover {
+  animation: like 6s infinite linear;
+  z-index: 6;
+}
 .pollen3 {
   position: fixed;
   top: 264px;
@@ -35,7 +38,7 @@ html {
   z-index: 0;
 }
 
-#purplePollen :hover {
+.purplePollen :hover {
   animation: thirdPollen 6s infinite linear;
 }
 
