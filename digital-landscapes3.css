@@ -15,11 +15,11 @@ html {
 }
 
 .redPillar :hover {
-  animation: like 6s infinite linear;
+  animation: redPillarAnimation 6s infinite linear;
   z-index: 6;
 }
 
-@keyframes like {
+@keyframes redPillarAnimation  {
   0% {
     animation-timing-function: ease-in;
     transform: rotate(0deg) scale(1);
