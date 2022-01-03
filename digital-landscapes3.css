@@ -15,11 +15,25 @@ html {
 }
 
 .redPillar :hover {
-  animation: redPillarAnimation 6s infinite linear;
+  animation: redPillarAnimation1 6s infinite linear;
   z-index: 6;
 }
 
-@keyframes redPillarAnimation  {
+.redPillar2 {
+  position: fixed;
+  top: 474px;
+  left: 300px;
+  max-height: 22%;
+  z-index: 6;
+}
+
+.redPillar :hover {
+  animation: redPillarAnimation2 6s infinite linear;
+  z-index: 6;
+}
+
+
+@keyframes redPillarAnimation1  {
   0% {
     animation-timing-function: ease-in;
     transform: rotate(0deg) scale(1);
