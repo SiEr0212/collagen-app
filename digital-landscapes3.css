@@ -19,36 +19,8 @@ html {
   z-index: 6;
 }
 
-.redPillar2 {
-  position: fixed;
-  top: 474px;
-  left: 300px;
-  max-height: 22%;
-  z-index: 6;
-}
-
-.redPillar2 :hover {
-  animation: redPillarAnimation2 6s infinite linear;
-  z-index: 6;
-}
-
 
 @keyframes redPillarAnimation1  {
-  0% {
-    animation-timing-function: ease-in;
-    transform: rotate(0deg) scale(1);
-  }
-  25% {
-    animation-timing-function: ease-out;
-    transform: rotate(-180deg) scale(1.3);
-  }
-  50%,
-  100% {
-    transform: rotate(-360deg) scale(1);
-  }
-}
-
-@keyframes redPillarAnimation2  {
   0% {
     animation-timing-function: ease-in;
     transform: rotate(0deg) scale(1);
