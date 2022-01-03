@@ -27,7 +27,7 @@ html {
   z-index: 6;
 }
 
-.redPillar :hover {
+.redPillar2 :hover {
   animation: redPillarAnimation2 6s infinite linear;
   z-index: 6;
 }
@@ -55,11 +55,11 @@ html {
   }
   25% {
     animation-timing-function: ease-out;
-    transform: rotate(-180deg) scale(1.3);
+    transform: rotate(180deg) scale(1.3);
   }
   50%,
   100% {
-    transform: rotate(-360deg) scale(1);
+    transform: rotate(360deg) scale(1);
   }
 }
 
