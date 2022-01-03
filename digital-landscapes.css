@@ -43,11 +43,6 @@ html {
   z-index: 6;
 }
 
-/* a :hover {
-  animation: like 6s infinite linear;
-  z-index: 6;
-} */
-
 @keyframes like {
   0% {
     animation-timing-function: ease-in;
