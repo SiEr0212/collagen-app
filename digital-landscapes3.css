@@ -9,8 +9,8 @@ html {
 .redPillar {
   position: fixed;
   top: 360px;
-  left: 40px;
-  max-height: 2%;
+  left: 200px;
+  max-height: 24%;
   z-index: 6;
 }
 
