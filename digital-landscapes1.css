@@ -1,35 +1,35 @@
 html {
-    min-height: 100%;
-    background-image: url(assets/MUSHROOMPHONE.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-  }
+  min-height: 100%;
+  background-image: url(assets/MUSHROOMPHONE.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 
-  .moldUp {
-    position: fixed;
-    top: 360px;
-    left: 1340px;
-    max-height: 62%;
-    z-index: 6;
-  }
-  
-  .moldUp :hover {
-    animation: upperMold 6s infinite linear;
-    z-index: 6;
-  }
+.moldUp {
+  position: fixed;
+  top: 360px;
+  left: 1340px;
+  max-height: 62%;
+  z-index: 6;
+}
 
-  @keyframes upperMold {
-    0% {
-      animation-timing-function: ease-in;
-      transform: rotate(0deg) scale(1);
-    }
-    25% {
-      animation-timing-function: ease-out;
-      transform: rotate(-180deg) scale(1.3);
-    }
-    50%,
-    100% {
-      transform: rotate(-360deg) scale(1);
-    }
+.moldUp :hover {
+  animation: upperMold 6s infinite linear;
+  z-index: 6;
+}
+
+@keyframes upperMold {
+  0% {
+    animation-timing-function: ease-in;
+    transform: rotate(0deg) scale(1);
   }
+  25% {
+    animation-timing-function: ease-out;
+    transform: rotate(-180deg) scale(1.3);
+  }
+  50%,
+  100% {
+    transform: rotate(-360deg) scale(1);
+  }
+}
