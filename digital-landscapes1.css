@@ -19,6 +19,7 @@ html {
   z-index: 6;
 }
 
+
 @keyframes upperMold {
   0% {
     animation-timing-function: ease-in;
@@ -33,3 +34,4 @@ html {
     transform: /* rotate(-360deg) */ scale(1);
   }
 }
+
