@@ -8,9 +8,9 @@ html {
 
 .moldUp {
   position: fixed;
-  top: 360px;
-  left: 1340px;
-  max-height: 32%;
+  top: 220px;
+  left: 580px;
+  max-height: 36%;
   z-index: 6;
 }
 
