@@ -1,3 +1,9 @@
+
+function initparticles() {
+    bubbles();
+ }
+
+
 function bubbles() {
    $.each($(".particletext.bubbles"), function(){
       var bubblecount = ($(this).width()/50)*10;
