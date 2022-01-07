@@ -5,3 +5,5 @@ html {
     background-repeat: no-repeat;
     background-position: center center;
   }
+
+  a {background-color:transparent;}
