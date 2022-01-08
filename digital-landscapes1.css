@@ -11,12 +11,12 @@ html {
   top: 220px;
   left: 580px;
   max-height: 36%;
-  z-index: 0;
+  z-index: 6;
 }
 
 .moldUp :hover {
   animation: upperMold 4s infinite linear;
-  z-index: 0;
+  z-index: 6;
 }
 
 .moldDown {
@@ -29,7 +29,7 @@ html {
 
 .moldDown :hover {
   animation: upperMold 4s infinite linear;
-  z-index: 6;
+  z-index: 1;
 }
 
 @keyframes upperMold {
