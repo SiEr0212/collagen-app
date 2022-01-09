@@ -7,7 +7,7 @@ html {
 }
 
 .moldUp {
-  position: absolute;
+  position: fixed;
   top: 220px;
   left: 580px;
   max-height: 36%;
