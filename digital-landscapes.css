@@ -21,8 +21,8 @@ html {
 
 .pollen2 {
   position: absolute;
-  top: -3%;
-  left: 2.8%;
+  top: -3.1%;
+  left: 2.7%;
   right: 0;
   margin: 0 auto;
   max-height: 63%;
@@ -33,9 +33,11 @@ html {
   z-index: 6;
 }
 .pollen3 {
-  position: fixed;
-  top: 264px;
-  left: 16px;
+  position: absolute;
+  top: 30%;
+  left: -40%;
+  right: 0;
+  margin: 0 auto;
   max-height: 70%;
   z-index: 0;
 }
