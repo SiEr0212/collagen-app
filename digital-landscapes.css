@@ -11,6 +11,8 @@ html {
   position: absolute;
   top: 360px;
   left: 1340px;
+  right: 0;
+  margin: 0 auto;
   max-height: 62%;
   z-index: 6;
 }
