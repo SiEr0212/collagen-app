@@ -8,7 +8,7 @@ html {
 }
 
 .pollen1 {
-  position: fixed;
+  position: absolute;
   top: 360px;
   left: 1340px;
   max-height: 62%;
