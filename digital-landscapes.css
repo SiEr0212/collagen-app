@@ -4,7 +4,6 @@ html {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  
 }
 
 .pollen1 {
@@ -17,7 +16,7 @@ html {
   z-index: 6;
 }
 
-.pollen1 :hover {
+.yellowPollen :hover {
   animation: like 6s infinite linear;
   z-index: 6;
 }
