@@ -7,14 +7,14 @@ html {
 }
 
 .redPillar {
-  position: fixed;
-  top: 474px;
-  left: 300px;
+  position: absolute;
+  top: 48.5%;
+  left: 15.7%;
   max-height: 22%;
   z-index: 6;
 }
 
-.redPillar :hover {
+.redPillarLink :hover {
   animation: redPillarAnimation1 6s infinite linear;
   z-index: 6;
 }
