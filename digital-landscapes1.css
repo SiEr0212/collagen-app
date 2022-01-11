@@ -20,7 +20,7 @@ html {
   z-index: 6;
 }
 
-.moldUp :hover {
+.linkMoldUp :hover {
   animation: upperMold 4s infinite linear;
   z-index: 6;
 }
@@ -34,7 +34,7 @@ html {
   z-index: 1;
 }
 
-.moldDown :hover {
+.linkMoldDown :hover {
   animation: upperMold 4s infinite linear;
   z-index: 1;
 }
