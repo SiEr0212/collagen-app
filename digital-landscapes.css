@@ -9,9 +9,9 @@ html {
 
 .pollen1 {
   position: absolute;
-  top: auto;
-  left: auto;
-  right: auto;
+  top: 20px;
+  left: 1000px;
+  right: 0;
   max-height: 62%;
   z-index: 6;
 }
@@ -49,14 +49,14 @@ html {
   z-index: 6;
 }
 
-nav {
+/* nav {
   position: absolute;
   top: "your percentage";
   left: 0;
   right: 0;
   margin: 0 auto;
   border: solid;
-}
+} */
 
 @keyframes like {
   0% {
