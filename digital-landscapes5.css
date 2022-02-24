@@ -1,37 +1,36 @@
 html {
-    min-height: 100%;
-    background-image: url(assets/SPACEMAGGOTPLANETEATER_1920_1080px.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-  }
+  min-height: 100%;
+  background-image: url(assets/SPACEMAGGOTPLANETEATER_1920_1080px.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 
-  .blueMoon {
-    position: absolute;
-    top: 5%;
-    left: 78%;
-    margin: 0 auto;
-    max-height: 29%;
-    z-index: 6;
-  }
-  
-  .blueMoonLink :hover {
+.blueMoon {
+  position: absolute;
+  top: 5%;
+  left: 78%;
+  margin: 0 auto;
+  max-height: 30%;
+  z-index: 6;
+}
 
-    animation: blueMoonAnimation1 6s infinite linear;
-    z-index: 6;
+.blueMoonLink :hover {
+  animation: blueMoonAnimation1 6s infinite linear;
+  z-index: 6;
+}
+
+@keyframes blueMoonAnimation1 {
+  0% {
+    animation-timing-function: ease-in;
+    transform: rotate(0deg) scale(1);
   }
-  
-  @keyframes blueMoonAnimation1 {
-    0% {
-      animation-timing-function: ease-in;
-      transform: rotate(0deg) scale(1);
-    }
-    25% {
-      animation-timing-function: ease-out;
-      transform: rotate(180deg) scale(1.3);
-    }
-    50%,
-    100% {
-      transform: rotate(360deg) scale(1);
-    }
+  25% {
+    animation-timing-function: ease-out;
+    transform: rotate(180deg) scale(1.3);
   }
+  50%,
+  100% {
+    transform: rotate(360deg) scale(1);
+  }
+}
