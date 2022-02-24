@@ -15,7 +15,7 @@ html {
     z-index: 6;
   }
   
-  .redPillarLink :hover {
+  .blueMoon :hover {
     animation: redPillarAnimation1 6s infinite linear;
     z-index: 6;
   }
