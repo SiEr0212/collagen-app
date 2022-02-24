@@ -16,11 +16,11 @@ html {
   }
   
   .blueMoon :hover {
-    animation: redPillarAnimation1 6s infinite linear;
+    animation: blueMoonAnimation1 6s infinite linear;
     z-index: 6;
   }
   
-  @keyframes redPillarAnimation1 {
+  @keyframes blueMoonAnimation1 {
     0% {
       animation-timing-function: ease-in;
       transform: rotate(0deg) scale(1);
