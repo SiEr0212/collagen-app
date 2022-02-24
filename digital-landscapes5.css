@@ -4,6 +4,7 @@ html {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  overflow: hidden;
 }
 
 .blueMoon {
@@ -26,6 +27,11 @@ html {
     left: 43%;
     margin: 0 auto;
     max-height: 29%;
+    z-index: 6;
+  }
+
+  .tornadoLink :hover {
+    animation: blueMoonAnimation1 6s infinite linear;
     z-index: 6;
   }
 
