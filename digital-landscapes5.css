@@ -8,10 +8,10 @@ html {
 
   .blueMoon {
     position: absolute;
-    top: 48.5%;
-    left: 15.7%;
+    top: 5%;
+    left: 78%;
     margin: 0 auto;
-    max-height: 22%;
+    max-height: 29%;
     z-index: 6;
   }
   
