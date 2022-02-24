@@ -16,6 +16,7 @@ html {
   }
   
   .blueMoon :hover {
+    max-height: 49%;
     animation: blueMoonAnimation1 6s infinite linear;
     z-index: 6;
   }
