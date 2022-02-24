@@ -22,18 +22,18 @@ html {
 }
 
 .tornado {
-    position: absolute;
-    top: 34.5%;
-    left: 43%;
-    margin: 0 auto;
-    max-height: 29%;
-    z-index: 6;
-  }
+  position: absolute;
+  top: 34.5%;
+  left: 43%;
+  margin: 0 auto;
+  max-height: 29%;
+  z-index: 6;
+}
 
-  .tornadoLink :hover {
-    animation: blueMoonAnimation1 6s infinite linear;
-    z-index: 6;
-  }
+.tornadoLink :hover {
+  animation: blueMoonAnimation1 6s infinite linear;
+  z-index: 6;
+}
 
 @keyframes blueMoonAnimation1 {
   0% {
@@ -42,7 +42,7 @@ html {
   }
   25% {
     animation-timing-function: ease-out;
-    transform: rotate(180deg) scale(1.8);
+    transform: rotate(180deg) scale(8);
   }
   50%,
   100% {
