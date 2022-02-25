@@ -16,7 +16,7 @@ html {
     z-index: 6;
   }
   
-  .blueMoonLink :hover {
+  .fireCross :hover {
     animation: blueMoonAnimation1 6s infinite linear;
     z-index: 6;
   }
