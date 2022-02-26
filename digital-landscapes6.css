@@ -30,7 +30,7 @@ html {
   z-index: 6;
 }
 
-.chest :hover {
+.chestLink :hover {
   animation: blueMoonAnimation1 6s infinite linear;
   z-index: 6;
 }
