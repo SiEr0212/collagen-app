@@ -1,52 +1,51 @@
 html {
-    min-height: 100%;
-    background-image: url(assets/SMOKEYCHEST.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    overflow: hidden;
-  }
+  min-height: 100%;
+  background-image: url(assets/SMOKEYCHEST.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  overflow: hidden;
+}
 
-  .fireCross {
-    position: absolute;
-    top: 20%;
-    left: 41%;
-    margin: 0 auto;
-    max-height: 30%;
-    z-index: 6;
+.fireCross {
+  position: absolute;
+  top: 20%;
+  left: 41%;
+  margin: 0 auto;
+  max-height: 30%;
+  z-index: 6;
+}
+
+.fireCrossLink :hover {
+  animation: fireCrossAnimation1 6s infinite linear;
+  z-index: 6;
+}
+
+.chest {
+  position: absolute;
+  top: 49%;
+  left: 32.5%;
+  margin: 0 auto;
+  max-height: 55%;
+  z-index: 6;
+}
+
+.chest :hover {
+  animation: blueMoonAnimation1 6s infinite linear;
+  z-index: 6;
+}
+
+@keyframes fireCrossAnimation1 {
+  0% {
+    animation-timing-function: ease-in;
+    transform: rotate(0deg) scale(1);
   }
-  
-  .fireCrossLink :hover {
-    animation: fireCrossAnimation1 6s infinite linear;
-    z-index: 6;
+  25% {
+    animation-timing-function: ease-out;
+    transform: rotate(180deg) scale(8);
   }
-  
-  .chest {
-    position: absolute;
-    top: 49%;
-    left: 32.5%;
-    margin: 0 auto;
-    max-height: 55%;
-    z-index: 6;
+  50%,
+  100% {
+    transform: rotate(360deg) scale(1);
   }
-  
-  .chest :hover {
-    animation: blueMoonAnimation1 6s infinite linear;
-    z-index: 6;
-  }
-  
-  @keyframes fireCrossAnimation1 {
-    0% {
-      animation-timing-function: ease-in;
-      transform: rotate(0deg) scale(1);
-    }
-    25% {
-      animation-timing-function: ease-out;
-      transform: rotate(180deg) scale(8);
-    }
-    50%,
-    100% {
-      transform: rotate(360deg) scale(1);
-    }
-  }
-  
+}
