@@ -23,10 +23,10 @@ html {
   
   .chest {
     position: absolute;
-    top: 74.5%;
+    top: 45%;
     left: 43%;
     margin: 0 auto;
-    max-height: 29%;
+    max-height: 55%;
     z-index: 6;
   }
   
