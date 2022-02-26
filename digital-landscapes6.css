@@ -16,7 +16,7 @@ html {
     z-index: 6;
   }
   
-  .fireCross :hover {
+  .fireCrossLink :hover {
     animation: fireCrossAnimation1 6s infinite linear;
     z-index: 6;
   }
