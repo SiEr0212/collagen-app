@@ -9,10 +9,10 @@ html {
 
 .fireCross {
   position: absolute;
-  top: 10%;
-  left: 47%;
+  top: 11%;
+  left: 43%;
   margin: 0 auto;
-  max-height: 34%;
+  max-height: 35%;
   z-index: 6;
 }
 
