@@ -58,7 +58,6 @@ html {
   25% {
     animation-timing-function: ease-out;
     transform: rotate(-180deg) scale(8);
-    background-color: chartreuse;
   }
   50%,
   100% {
