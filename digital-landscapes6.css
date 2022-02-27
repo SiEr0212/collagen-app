@@ -65,5 +65,6 @@ html {
     transform: rotate(-360deg) scale(1);
     color: blue;
     background-color: chartreuse;
+    opacity: 50%;
   }
 }
