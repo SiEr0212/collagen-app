@@ -54,10 +54,12 @@ html {
   0% {
     animation-timing-function: ease-in;
     transform: rotate(0deg) scale(1);
+    
   }
   25% {
     animation-timing-function: ease-out;
     transform: rotate(-180deg) scale(8);
+    color: blue;
   }
   50%,
   100% {
