@@ -10,9 +10,9 @@ html {
 .fireCross {
   position: absolute;
   top: 11%;
-  left: 43%;
+  left: 43.8%;
   margin: 0 auto;
-  max-height: 35%;
+  max-height: 40%;
   z-index: 6;
 }
 
@@ -27,12 +27,12 @@ html {
   left: 32.5%;
   margin: 0 auto;
   max-height: 55%;
-  z-index: 6;
+  z-index: 5;
 }
 
 .chestLink :hover {
   animation: chestLinkAnimation1 6s infinite linear;
-  z-index: 6;
+  z-index: 7;
 }
 
 @keyframes fireCrossAnimation1 {
