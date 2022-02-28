@@ -43,6 +43,7 @@ html {
   25% {
     animation-timing-function: ease-out;
     transform: rotate(180deg) scale(3);
+    opacity: 25%;
   }
   50%,
   100% {
