@@ -17,7 +17,7 @@ html {
 }
 
 .blueMoonLink :hover {
-  animation: blueMoonAnimation1 6s infinite linear;
+  /* animation: blueMoonAnimation1 6s infinite linear; */
   animation: moveMoon 9s ease-in-out forwards;
   z-index: 6;
 }
@@ -52,13 +52,10 @@ html {
 }
 
 @keyframes moveMoon {
-  
-    0% {
+  0% {
     left: 18%;
-    }
-    100% {
+  }
+  100% {
     left: 110%;
-    }
-  
-
+  }
 }
