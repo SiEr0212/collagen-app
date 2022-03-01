@@ -18,7 +18,7 @@ html {
 
 .blueMoonLink :hover {
   /* animation: blueMoonAnimation1 6s infinite linear; */
-  animation: moveMoon 9s ease-in-out forwards;
+  animation: moveMoon 3s ease-in-out forwards;
   z-index: 6;
 }
 
