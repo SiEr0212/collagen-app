@@ -56,7 +56,10 @@ html {
     left: 78%;
     transform: rotate(0deg) scale(1);
   }
-  
+  25% {
+    animation-timing-function: ease-out;
+    transform: rotate(180deg) scale(8);
+  }
   100% {
     left: -40%;
   }
