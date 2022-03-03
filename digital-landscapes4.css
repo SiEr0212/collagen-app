@@ -10,9 +10,9 @@ html {
     background-color: black;
 }
 #star-container {
-    background-color: black;
+ /*    background-color: black;
     height: 100vh;
-    margin: 0px;
+    margin: 0px; */
 }
 #shootingstar {
     position: absolute;
