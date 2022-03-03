@@ -7,20 +7,7 @@ html {
     overflow: hidden;
   }
 
-.shoot {
-    animation: 2500ms linear 1 shoot;
-}
-@keyfromes shootstar {
-    0% {
-        transform: scale(0);
-    }
-    50% {
-        transform: scale(1);
-    }
-    100% {
-        transform: scale(0);
-    }
-}
+
 #moon {
     background-image: url("https://cdr2.com/moon.png");
     background-size: 100% 100%;
@@ -41,48 +28,8 @@ html {
         transform: translatex(500px) translatey(-1000px);
     }
 }
-.star {
-    position: absolute;
-    background-color: transparent;
-    color: #fff;
-    transform-origin: center;
-    text-align: center;
-    border-radius: 50%;
-}
-.star:before {
-    content: "";
-    background-color: transparent;
-    width: 100%;
-    height: 100%;
-    display: inline-block;
-    border-radius: 50%;
-    position: absolute;
-    top: -1px;
-    left: -1px;
-}
-.star:after {
-    content: "";
 
-    width: 100%;
-    height: 100%;
-    display: inline-block;
-    border-radius: 50%;
-    position: absolute;
-    top: 1px;
-    left: 1px;
-}
 
-@keyframes shoot {
-    0% {
-        transform: translate(0px, 0px) scale(0);
-    }
-    50% {
-        transform: translate(250px, 250px) scale(2);
-    }
-    100% {
-        transform: translate(500px, 500px) scale(0);
-    }
-}
 
 @keyframes rotate {
     0% {
