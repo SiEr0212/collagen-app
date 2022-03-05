@@ -21,7 +21,7 @@ html {
 }
 @keyframes drift {
   0% {
-    transform: translatex(1px) translatey(0px);
+    transform: translatex(px) translatey(0px);
   }
   100% {
     transform: translatex(500px) translatey(-1300px);
