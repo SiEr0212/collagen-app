@@ -17,7 +17,7 @@ html {
   animation: 120s linear 0s infinite drift;
   bottom: -20vw;
   left: 10%;
-  filter: drop-shadow(0px 0px 80px #fff9);
+  filter: drop-shadow(0px 0px 85px #fff9);
 }
 @keyframes drift {
   0% {
