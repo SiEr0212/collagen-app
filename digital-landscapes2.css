@@ -1,22 +1,22 @@
 html {
-    min-height: 100%;
-    background-image: url(assets/QUANTENPC.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-  }
+  min-height: 100%;
+  background-image: url(assets/QUANTENPC.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 
-  a {background-color:transparent;}
+a {
+  background-color: transparent;
+}
 
-  #starfield
-{
+#starfield {
   position: fixed;
   inset: 0;
   background: black;
 }
 
-.star
-{
+.star {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -30,14 +30,11 @@ html {
   animation-delay: var(--delay);
 }
 
-@keyframes star
-{
-  from
-  {
+@keyframes star {
+  from {
     transform: rotateZ(var(--rotation)) translateY(0) scale(0);
   }
-  to
-  {
+  to {
     transform: rotateZ(var(--rotation)) translateY(100vw) scale(var(--scale));
   }
 }
