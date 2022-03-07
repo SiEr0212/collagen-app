@@ -13,7 +13,7 @@ a {
 #starfield {
   position: fixed;
   inset: 0;
-  background: black;
+ 
 }
 
 .star {
