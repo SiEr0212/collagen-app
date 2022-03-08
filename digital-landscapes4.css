@@ -21,7 +21,7 @@ html {
   /* perhaps another color-red? */
 }
 
-.redPillar {
+.StarOmiTeil {
   position: absolute;
   top: 48.5%;
   left: 15.7%;
@@ -30,7 +30,7 @@ html {
   z-index: 6;
 }
 
-.redPillarLink :hover {
+.StarOmiTeil :hover {
   animation: redPillarAnimation1 6s infinite linear;
   z-index: 6;
 }
