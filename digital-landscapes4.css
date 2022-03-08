@@ -39,7 +39,7 @@ html {
   z-index: 6;
 }
 
-.StarOmiTeil :hover {
+.linkStarOmiTeil :hover {
   animation: googleStarAnimation 6s infinite linear;
   z-index: 6;
 }
