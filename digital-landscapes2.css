@@ -10,3 +10,12 @@ a {
   background-color: transparent;
 }
 
+.blur-animation {
+  -webkit-animation: blur-in-and-out 3s infinite;
+}
+
+@-webkit-keyframes blur-in-and-out {
+  0%, 100%  { -webkit-filter: blur(6px) ; }
+  25%, 75% {  -webkit-filter: blur(28px); }
+  50% {  -webkit-filter: blur(48px); }
+}
