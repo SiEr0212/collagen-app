@@ -15,8 +15,8 @@ a {
 
 .box {
   /* background-color: #61ab20; */
-  min-height: 50vh;
-  min-width: 50vw;
+  min-height: 25vh;
+  min-width: 25vw;
   margin: 0 auto;
   width: 500px;
   height: 300px;
