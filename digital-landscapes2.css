@@ -7,13 +7,17 @@ html {
   /* -webkit-animation: blur-in-and-out 3s infinite; */
 
 }
-
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 a {
   background-color: transparent;
 }
 
 .blur-animation {
-  -webkit-animation: blur-in-and-out 1000s infinite;
+  -webkit-animation: blur-in-and-out 100s infinite;
 }
 
 @-webkit-keyframes blur-in-and-out {
