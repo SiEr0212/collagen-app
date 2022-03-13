@@ -4,6 +4,7 @@ html {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  overflow: hidden;
   /* -webkit-animation: blur-in-and-out 3s infinite; */
 
 }
