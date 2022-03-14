@@ -45,8 +45,11 @@ a {
 }
 
 .box :hover{
-  transform: scale(2.5)
+  transform: scale(2.5);
+  background-color: #ff0a0a;
 }
+
+
 
 .box b :hover {
   background-color: #ff0a0a;
