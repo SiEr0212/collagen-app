@@ -48,6 +48,10 @@ a {
   transform: scale(2.5)
 }
 
+.box b :hover {
+  
+}
+
 @-webkit-keyframes moveX {
   from {
     left: 0;
