@@ -94,13 +94,13 @@ a {
 @-webkit-keyframes moveY1 {
   from { top: 0; } to { top: 280px; }
 }
-@-moz-keyframes moveY {
+@-moz-keyframes moveY1 {
   from { top: 0; } to { top: 280px; }
 }
 @-o-keyframes moveY {
   from { top: 0; } to { top: 280px; }
 }
-@keyframes moveY {
+@keyframes moveY1 {
   from { top: 0; } to { top: 280px; }
 }
 
