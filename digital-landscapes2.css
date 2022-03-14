@@ -178,7 +178,7 @@ a {
 }
 @-o-keyframes moveY {
   from {
-    top: 280px;
+    top: 1280px;
   }
   to {
     top: 0;
@@ -186,7 +186,7 @@ a {
 }
 @keyframes moveY1 {
   from {
-    top: 280px;
+    top: 1280px;
   }
   to {
     top: 0;
