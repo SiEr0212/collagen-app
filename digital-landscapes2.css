@@ -91,7 +91,7 @@ a {
 @keyframes moveX1 {
   from { left: 0; } to { left: 480px; }
 }
-@-webkit-keyframes moveY {
+@-webkit-keyframes moveY1 {
   from { top: 0; } to { top: 280px; }
 }
 @-moz-keyframes moveY {
