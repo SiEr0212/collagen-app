@@ -73,22 +73,22 @@ a {
   background-color: #3673cf;
   box-shadow: inset -5px -5px 5px rgba(0,0,0,.6), 15px 15px 2px rgba(0,0,0,.04);
   position: absolute;
-  -webkit-animation: moveX 13.05s linear 0s infinite alternate, moveY 13.4s linear 0s infinite alternate;
-  -moz-animation: moveX 13.05s linear 0s infinite alternate, moveY 13.4s linear 0s infinite alternate;
-  -o-animation: moveX 13.05s linear 0s infinite alternate, moveY 13.4s linear 0s infinite alternate;
-  animation: moveX 13.05s linear 0s infinite alternate, moveY 13.4s linear 0s infinite alternate;
+  -webkit-animation: moveX1 13.05s linear 0s infinite alternate, moveY1 13.4s linear 0s infinite alternate;
+  -moz-animation: moveX1 13.05s linear 0s infinite alternate, moveY1 13.4s linear 0s infinite alternate;
+  -o-animation: moveX1 13.05s linear 0s infinite alternate, moveY1 13.4s linear 0s infinite alternate;
+  animation: moveX1 13.05s linear 0s infinite alternate, moveY1 13.4s linear 0s infinite alternate;
 }
 
-@-webkit-keyframes moveX {
+@-webkit-keyframes moveX1 {
   from { left: 0; } to { left: 480px; }
 }
-@-moz-keyframes moveX {
+@-moz-keyframes moveX1 {
   from { left: 0; } to { left: 480px; }
 }
-@-o-keyframes moveX {
+@-o-keyframes moveX1 {
   from { left: 0; } to { left: 480px; }
 }
-@keyframes moveX {
+@keyframes moveX1 {
   from { left: 0; } to { left: 480px; }
 }
 @-webkit-keyframes moveY {
