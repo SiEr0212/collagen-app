@@ -49,7 +49,7 @@ a {
 }
 
 .box b :hover {
-  
+  background-color: #ff0a0a;
 }
 
 @-webkit-keyframes moveX {
