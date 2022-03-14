@@ -176,7 +176,7 @@ a {
     top: 0;
   }
 }
-@-o-keyframes moveY {
+@-o-keyframes moveY1 {
   from {
     top: 680px;
   }
