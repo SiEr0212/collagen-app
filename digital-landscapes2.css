@@ -186,10 +186,10 @@ a {
 }
 @keyframes moveY1 {
   from {
-    top: 0;
+    top: 280px;
   }
   to {
-    top: 280px;
+    top: 0;
   }
 }
 
