@@ -130,15 +130,15 @@ a {
 
 @-webkit-keyframes moveX1 {
   from {
-    left:  480;
+    left:  1480px;
   }
   to {
-    left: 0px;
+    left: 0;
   }
 }
 @-moz-keyframes moveX1 {
   from {
-    left: 480px;
+    left: 1480px;
   }
   to {
     left: 0;
