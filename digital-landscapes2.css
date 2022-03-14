@@ -44,6 +44,10 @@ a {
     moveY 13.4s linear 0s infinite alternate;
 }
 
+.box :hover{
+  transform: scale(2.5)
+}
+
 @-webkit-keyframes moveX {
   from {
     left: 0;
