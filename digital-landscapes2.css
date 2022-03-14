@@ -130,42 +130,42 @@ a {
 
 @-webkit-keyframes moveX1 {
   from {
-    left: 0;
+    left:  480;
   }
   to {
-    left: 480px;
+    left: 0px;
   }
 }
 @-moz-keyframes moveX1 {
   from {
-    left: 0;
+    left: 480px;
   }
   to {
-    left: 480px;
+    left: 0;
   }
 }
 @-o-keyframes moveX1 {
   from {
-    left: 0;
+    left: 1480px;
   }
   to {
-    left: 480px;
+    left: 0;
   }
 }
 @keyframes moveX1 {
   from {
-    left: 0;
+    left: 480px;
   }
   to {
-    left: 480px;
+    left: 0;
   }
 }
 @-webkit-keyframes moveY1 {
   from {
-    top: 0;
+    top: 280px;
   }
   to {
-    top: 280px;
+    top: 0;
   }
 }
 @-moz-keyframes moveY1 {
