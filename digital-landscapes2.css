@@ -178,7 +178,7 @@ a {
 }
 @-o-keyframes moveY {
   from {
-    top: 1280px;
+    top: 680px;
   }
   to {
     top: 0;
