@@ -6,7 +6,6 @@ html {
   background-position: center center;
   overflow: hidden;
   /* -webkit-animation: blur-in-and-out 3s infinite; */
-
 }
 
 a {
@@ -21,9 +20,9 @@ a {
   width: 500px;
   height: 300px;
   position: relative;
- /*  box-shadow: inset 0 0 3px #000; */
-/*   border-radius: 5px; */
-/*   border: 1px solid #111; */
+  /*  box-shadow: inset 0 0 3px #000; */
+  /*   border-radius: 5px; */
+  /*   border: 1px solid #111; */
   overflow: hidden;
 }
 .box b {
@@ -32,37 +31,82 @@ a {
   height: 20px;
   border-radius: 50%;
   background-color: #3673cf;
-  box-shadow: inset -5px -5px 5px rgba(0,0,0,.6), 15px 15px 2px rgba(0,0,0,.04);
+  box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
+    15px 15px 2px rgba(0, 0, 0, 0.04);
   position: absolute;
-  -webkit-animation: moveX 13.05s linear 0s infinite alternate, moveY 13.4s linear 0s infinite alternate;
-  -moz-animation: moveX 13.05s linear 0s infinite alternate, moveY 13.4s linear 0s infinite alternate;
-  -o-animation: moveX 13.05s linear 0s infinite alternate, moveY 13.4s linear 0s infinite alternate;
-  animation: moveX 13.05s linear 0s infinite alternate, moveY 13.4s linear 0s infinite alternate;
+  -webkit-animation: moveX 13.05s linear 0s infinite alternate,
+    moveY 13.4s linear 0s infinite alternate;
+  -moz-animation: moveX 13.05s linear 0s infinite alternate,
+    moveY 13.4s linear 0s infinite alternate;
+  -o-animation: moveX 13.05s linear 0s infinite alternate,
+    moveY 13.4s linear 0s infinite alternate;
+  animation: moveX 13.05s linear 0s infinite alternate,
+    moveY 13.4s linear 0s infinite alternate;
 }
 
 @-webkit-keyframes moveX {
-  from { left: 0; } to { left: 480px; }
+  from {
+    left: 0;
+  }
+  to {
+    left: 480px;
+  }
 }
 @-moz-keyframes moveX {
-  from { left: 0; } to { left: 480px; }
+  from {
+    left: 0;
+  }
+  to {
+    left: 480px;
+  }
 }
 @-o-keyframes moveX {
-  from { left: 0; } to { left: 480px; }
+  from {
+    left: 0;
+  }
+  to {
+    left: 480px;
+  }
 }
 @keyframes moveX {
-  from { left: 0; } to { left: 480px; }
+  from {
+    left: 0;
+  }
+  to {
+    left: 480px;
+  }
 }
 @-webkit-keyframes moveY {
-  from { top: 0; } to { top: 280px; }
+  from {
+    top: 0;
+  }
+  to {
+    top: 280px;
+  }
 }
 @-moz-keyframes moveY {
-  from { top: 0; } to { top: 280px; }
+  from {
+    top: 0;
+  }
+  to {
+    top: 280px;
+  }
 }
 @-o-keyframes moveY {
-  from { top: 0; } to { top: 280px; }
+  from {
+    top: 0;
+  }
+  to {
+    top: 280px;
+  }
 }
 @keyframes moveY {
-  from { top: 0; } to { top: 280px; }
+  from {
+    top: 0;
+  }
+  to {
+    top: 280px;
+  }
 }
 
 .box1 b {
@@ -71,40 +115,83 @@ a {
   height: 20px;
   border-radius: 50%;
   background-color: #3673cf;
-  box-shadow: inset -5px -5px 5px rgba(0,0,0,.6), 15px 15px 2px rgba(0,0,0,.04);
+  box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
+    15px 15px 2px rgba(0, 0, 0, 0.04);
   position: absolute;
-  -webkit-animation: moveX1 13.05s linear 0s infinite alternate, moveY1 13.4s linear 0s infinite alternate;
-  -moz-animation: moveX1 13.05s linear 0s infinite alternate, moveY1 13.4s linear 0s infinite alternate;
-  -o-animation: moveX1 13.05s linear 0s infinite alternate, moveY1 13.4s linear 0s infinite alternate;
-  animation: moveX1 13.05s linear 0s infinite alternate, moveY1 13.4s linear 0s infinite alternate;
+  -webkit-animation: moveX1 13.05s linear 0s infinite alternate,
+    moveY1 13.4s linear 0s infinite alternate;
+  -moz-animation: moveX1 13.05s linear 0s infinite alternate,
+    moveY1 13.4s linear 0s infinite alternate;
+  -o-animation: moveX1 13.05s linear 0s infinite alternate,
+    moveY1 13.4s linear 0s infinite alternate;
+  animation: moveX1 13.05s linear 0s infinite alternate,
+    moveY1 13.4s linear 0s infinite alternate;
 }
 
 @-webkit-keyframes moveX1 {
-  from { left: 0; } to { left: 480px; }
+  from {
+    left: 0;
+  }
+  to {
+    left: 480px;
+  }
 }
 @-moz-keyframes moveX1 {
-  from { left: 0; } to { left: 480px; }
+  from {
+    left: 0;
+  }
+  to {
+    left: 480px;
+  }
 }
 @-o-keyframes moveX1 {
-  from { left: 0; } to { left: 480px; }
+  from {
+    left: 0;
+  }
+  to {
+    left: 480px;
+  }
 }
 @keyframes moveX1 {
-  from { left: 0; } to { left: 480px; }
+  from {
+    left: 0;
+  }
+  to {
+    left: 480px;
+  }
 }
 @-webkit-keyframes moveY1 {
-  from { top: 0; } to { top: 280px; }
+  from {
+    top: 0;
+  }
+  to {
+    top: 280px;
+  }
 }
 @-moz-keyframes moveY1 {
-  from { top: 0; } to { top: 280px; }
+  from {
+    top: 0;
+  }
+  to {
+    top: 280px;
+  }
 }
 @-o-keyframes moveY {
-  from { top: 0; } to { top: 280px; }
+  from {
+    top: 0;
+  }
+  to {
+    top: 280px;
+  }
 }
 @keyframes moveY1 {
-  from { top: 0; } to { top: 280px; }
+  from {
+    top: 0;
+  }
+  to {
+    top: 280px;
+  }
 }
-
-
 
 /* .blur-animation {
   -webkit-animation: blur-in-and-out 100s infinite;
