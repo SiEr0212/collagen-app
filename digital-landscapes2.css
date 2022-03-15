@@ -230,7 +230,7 @@ a {
     moveY2 13.4s linear 0s infinite alternate;
 }
 
-.box1 :hover{
+.box2 :hover{
   transform: scale(3)
 }
 
