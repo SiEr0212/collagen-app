@@ -140,9 +140,14 @@ a {
 }
 
 .box1 :hover{
-  transform: scale(3)
+  transform: scale(3);
+  background-color: #e6ff0a;
 }
-
+.box2 :hover{
+  transform: scale(2.5);
+  background-color: #e6ff0a;
+ 
+}
 
 
 @-webkit-keyframes moveX1 {
