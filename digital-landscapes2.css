@@ -284,7 +284,7 @@ a {
     top: 0;
   }
 }
-@-o-keyframes moveY1 {
+@-o-keyframes moveY2 {
   from {
     top: 680px;
   }
@@ -292,7 +292,7 @@ a {
     top: 0;
   }
 }
-@keyframes moveY1 {
+@keyframes moveY2 {
   from {
     top: 680px;
   }
