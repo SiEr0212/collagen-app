@@ -278,7 +278,7 @@ a {
 }
 @-moz-keyframes moveY2 {
   from {
-    top: 280px;
+    top: 980px;
   }
   to {
     top: 0;
@@ -286,7 +286,7 @@ a {
 }
 @-o-keyframes moveY2 {
   from {
-    top: 80px;
+    top: 980px;
   }
   to {
     top: 0;
@@ -294,7 +294,7 @@ a {
 }
 @keyframes moveY2 {
   from {
-    top: 680px;
+    top: 980px;
   }
   to {
     top: 0;
