@@ -236,7 +236,7 @@ a {
 
 
 
-@-webkit-keyframes moveX1 {
+@-webkit-keyframes moveX2 {
   from {
     left:  1480px;
   }
@@ -244,7 +244,7 @@ a {
     left: 0;
   }
 }
-@-moz-keyframes moveX1 {
+@-moz-keyframes moveX2 {
   from {
     left: 1480px;
   }
