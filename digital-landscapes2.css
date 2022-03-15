@@ -44,12 +44,10 @@ a {
     moveY 13.4s linear 0s infinite alternate;
 }
 
-.box :hover{
+.box :hover {
   transform: scale(2.5);
   background-color: #ff0a0a;
 }
-
-
 
 .box b :hover {
   background-color: #ff0a0a;
@@ -139,16 +137,14 @@ a {
     moveY1 13.4s linear 0s infinite alternate;
 }
 
-.box1 :hover{
+.box1 :hover {
   transform: scale(3);
   background-color: #e6ff0a;
 }
 
-
-
 @-webkit-keyframes moveX1 {
   from {
-    left:  1480px;
+    left: 1480px;
   }
   to {
     left: 0;
@@ -211,7 +207,6 @@ a {
   }
 }
 
-
 .box2 b {
   display: block;
   width: 20px;
@@ -231,19 +226,14 @@ a {
     moveY2 13.4s linear 0s infinite alternate;
 }
 
-
-
-.box2 :hover{
+.box2 :hover {
   transform: scale(2.5);
   background-color: #ff0a84;
- 
 }
-
-
 
 @-webkit-keyframes moveX2 {
   from {
-    left:  1480px;
+    left: 1480px;
   }
   to {
     left: 0;
@@ -305,7 +295,6 @@ a {
     top: 0;
   }
 }
-
 
 /* .blur-animation {
   -webkit-animation: blur-in-and-out 100s infinite;
