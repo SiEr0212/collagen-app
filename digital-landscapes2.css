@@ -226,8 +226,8 @@ a {
     moveY2 13.4s linear 0s infinite alternate;
   -o-animation: moveX2 13.05s linear 0s infinite alternate,
     moveY1 13.4s linear 0s infinite alternate;
-  animation: moveX1 13.05s linear 0s infinite alternate,
-    moveY1 13.4s linear 0s infinite alternate;
+  animation: moveX2 13.05s linear 0s infinite alternate,
+    moveY2 13.4s linear 0s infinite alternate;
 }
 
 .box1 :hover{
