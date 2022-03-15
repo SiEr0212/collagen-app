@@ -276,7 +276,7 @@ a {
     top: 0;
   }
 }
-@-moz-keyframes moveY1 {
+@-moz-keyframes moveY2 {
   from {
     top: 6280px;
   }
