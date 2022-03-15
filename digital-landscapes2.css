@@ -143,11 +143,7 @@ a {
   transform: scale(3);
   background-color: #e6ff0a;
 }
-.box2 :hover{
-  transform: scale(2.5);
-  background-color: #ff0a84;
- 
-}
+
 
 
 @-webkit-keyframes moveX1 {
@@ -235,8 +231,12 @@ a {
     moveY2 13.4s linear 0s infinite alternate;
 }
 
+
+
 .box2 :hover{
-  transform: scale(3)
+  transform: scale(2.5);
+  background-color: #ff0a84;
+ 
 }
 
 
