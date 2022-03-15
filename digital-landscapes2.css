@@ -260,7 +260,7 @@ a {
     left: 0;
   }
 }
-@keyframes moveX1 {
+@keyframes moveX2 {
   from {
     left: 480px;
   }
@@ -268,7 +268,7 @@ a {
     left: 0;
   }
 }
-@-webkit-keyframes moveY1 {
+@-webkit-keyframes moveY2 {
   from {
     top: 6280px;
   }
