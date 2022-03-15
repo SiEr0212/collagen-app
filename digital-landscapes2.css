@@ -254,7 +254,7 @@ a {
 }
 @-o-keyframes moveX2 {
   from {
-    left: 480px;
+    left: 980px;
   }
   to {
     left: 0;
@@ -262,7 +262,7 @@ a {
 }
 @keyframes moveX2 {
   from {
-    left: 480px;
+    left: 980px;
   }
   to {
     left: 0;
