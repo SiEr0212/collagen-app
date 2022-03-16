@@ -9,11 +9,11 @@ html {
 
 .homeText {
   font-family: "Poppins", sans-serif;
-  font-size: 18vh;
+  font-size: 20vh;
   text-align: center;
   font-weight: 600;
   color: yellow;
-  -webkit-animation: blur-in-and-out 10s infinite;
+  -webkit-animation: blur-in-and-out 15s infinite;
 }
 
 @-webkit-keyframes blur-in-and-out {
