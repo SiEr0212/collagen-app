@@ -13,8 +13,10 @@ html {
   text-align: center;
   font-weight: 600;
   color:yellow;
-
+  -webkit-animation: blur-in-and-out 100s infinite;
 }
+
+
 
 .pollen1 {
   position: absolute;
