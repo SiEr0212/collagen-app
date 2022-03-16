@@ -9,9 +9,10 @@ html {
 
 .homeText{
   font-family: 'Poppins', sans-serif;
-  font-size: 15vh;
+  font-size: 18vh;
   text-align: center;
   font-weight: 600;
+  color:yellow;
 
 }
 
