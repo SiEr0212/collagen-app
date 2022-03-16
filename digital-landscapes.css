@@ -7,16 +7,28 @@ html {
   overflow: hidden;
 }
 
-.homeText{
-  font-family: 'Poppins', sans-serif;
+.homeText {
+  font-family: "Poppins", sans-serif;
   font-size: 18vh;
   text-align: center;
   font-weight: 600;
-  color:yellow;
-  -webkit-animation: blur-in-and-out 100s infinite;
+  color: yellow;
+  -webkit-animation: blur-in-and-out 10s infinite;
 }
 
-
+@-webkit-keyframes blur-in-and-out {
+  0%,
+  100% {
+    -webkit-filter: blur(0px);
+  }
+  25%,
+  75% {
+    -webkit-filter: blur(9px);
+  }
+  50% {
+    -webkit-filter: blur(30px);
+  }
+}
 
 .pollen1 {
   position: absolute;
@@ -99,4 +111,3 @@ html {
     transform: rotate(360deg) scale(1);
   }
 } ;
-
