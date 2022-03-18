@@ -7,6 +7,14 @@ html {
   overflow: hidden;
 }
 
+#dgl3Text {
+  font-family: "Yantramanav", sans-serif;
+  font-size: 22vh;
+  text-align: center;
+  font-weight: 600;
+  color: yellow;
+}
+
 .redPillar {
   position: absolute;
   top: 48.5%;
@@ -174,11 +182,3 @@ html {
 }
 
 
-.dgl3Text {
-  font-family: "Yantramanav", sans-serif;
-  font-size: 18vh;
-  text-align: center;
-  font-weight: 600;
-  color: yellow;
-  -webkit-animation: blur-in-and-out 12s infinite;
-}
