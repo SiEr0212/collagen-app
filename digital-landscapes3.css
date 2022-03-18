@@ -13,6 +13,8 @@ html {
   text-align: center;
   font-weight: 600;
   color: yellow;
+  /* background-color: aquamarine; */
+  opacity: 50%;
 }
 
 .redPillar {
