@@ -296,6 +296,15 @@ a {
   }
 }
 
+.dgl2Text {
+  font-family:'Yantramanav', sans-serif;
+  font-size: 22vh;
+  text-align: center;
+  font-weight: 600;
+  color: yellow;
+  -webkit-animation: blur-in-and-out 12s infinite;
+}
+
 /* .blur-animation {
   -webkit-animation: blur-in-and-out 100s infinite;
 }
