@@ -172,3 +172,13 @@ html {
   font-family: "Raleway", sans-serif;
   color: #000;
 }
+
+
+.dgl3Text {
+  font-family: "Yantramanav", sans-serif;
+  font-size: 18vh;
+  text-align: center;
+  font-weight: 600;
+  color: yellow;
+  -webkit-animation: blur-in-and-out 12s infinite;
+}
