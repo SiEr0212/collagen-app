@@ -12,6 +12,7 @@ html {
   font-size: 22vh;
   text-align: center;
   font-weight: 600;
+  border: 1px solid grey;
   color: yellow;
 }
 
