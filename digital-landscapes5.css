@@ -66,3 +66,13 @@ html {
     transform: rotate(360deg) scale(1.5);
   }
 }
+
+#dgl5Text {
+  font-family: "Yantramanav", sans-serif;
+  font-size: 22vh;
+  text-align: center;
+  font-weight: 600;
+  color: yellow;
+  /* background-color: aquamarine; */
+}
+
