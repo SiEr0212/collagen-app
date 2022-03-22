@@ -102,7 +102,6 @@ html {
   content: attr(title);
   position: absolute;
   left: 31vw;
-  
 }
 
 #dgl5Text:before {
