@@ -74,7 +74,7 @@ html {
   text-align: center;
   font-weight: 600;
   color: yellow;
-  /* margin-left: 3%; */
+  margin-left: -6%;
   margin-top: 12%;
   /* background-color: aquamarine; */
 }
@@ -101,7 +101,7 @@ html {
 #dgl5Text:after {
   content: attr(title);
   position: absolute;
-  left: 41%;
+  left: 41.3%;
 }
 
 #dgl5Text:before {
