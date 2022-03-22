@@ -101,7 +101,7 @@ html {
 #dgl5Text:after {
   content: attr(title);
   position: absolute;
-  left: 0;
+  left: 10vw;
 }
 
 #dgl5Text:before {
