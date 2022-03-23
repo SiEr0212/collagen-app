@@ -68,4 +68,5 @@ html {
   margin-left: 47%;
   margin-top: 12%;
   /* background-color: aquamarine; */
+  animation: myAnim 2s ease 0s infinite normal forwards;
 }
