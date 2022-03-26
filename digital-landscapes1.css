@@ -67,7 +67,7 @@ html {
   margin-left: 47%;
   margin-top: 8%;
   /* background-color: aquamarine; */
-  animation: myAnim 2s ease 0s infinite normal forwards;
+  animation: myAnim 5s ease 0s infinite normal forwards;
 }
 
 @keyframes myAnim {
