@@ -55,12 +55,11 @@ html {
 
 #dgl4Text {
   font-family: "Yantramanav", sans-serif;
-  font-size: 10vh;
-  font-size: 96px;
+  font-size: 9vh;
   text-align: center;
   font-weight: 600;
   color: yellow;
   margin-left: 47%;
-  margin-top: 8%;
+  margin-top: 7%;
   /* animation: myAnim 5s ease 0s infinite normal forwards; */
 }
