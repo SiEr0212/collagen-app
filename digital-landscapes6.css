@@ -78,7 +78,7 @@ html {
 }
 
 .pop-outin {
-  animation: 2s anim-popoutin ease infinite;
+  animation: 10s anim-popoutin ease infinite;
 }
 
 @keyframes anim-popoutin {
