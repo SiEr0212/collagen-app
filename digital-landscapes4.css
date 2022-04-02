@@ -72,7 +72,7 @@ html {
 
 @keyframes animated-text{
   from{width: 0;}
-  to{width: 60vw;}
+  to{width: 55vw;}
 }
 
 /* cursor animations */
