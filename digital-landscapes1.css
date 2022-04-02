@@ -98,6 +98,6 @@ html {
   45% {
     animation-timing-function: ease-out;
     transform: scale(1);
-    color: rgb(51, 255, 0);
+    color: rgb(26, 9, 255);
   }
 }
