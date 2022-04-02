@@ -55,10 +55,10 @@ html {
 
 #dgl4Text {
   font-family: "Yantramanav", sans-serif;
-  font-size: 11vh;
+  font-size: 10vh;
   text-align: center;
   font-weight: 600;
-  color: yellow;
+  color: rgb(147, 255, 6);
   margin-left: 47%;
   margin-top: 6%;
 }
