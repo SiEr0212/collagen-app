@@ -79,6 +79,7 @@ html {
   10% {
     animation-timing-function: ease-in;
     transform: scale(0.94);
+    color: rgb(255, 0, 0);
   }
 
   17% {
