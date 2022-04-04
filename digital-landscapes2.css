@@ -306,7 +306,6 @@ font-size: 2vh;
   font-size: 18vh;
   text-align: center;
   font-weight: 600;
-  /* color: yellow; */
   -webkit-animation: blur-in-and-out 12s infinite;
   color: #f35626;
   background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
