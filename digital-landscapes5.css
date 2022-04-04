@@ -101,7 +101,7 @@ html {
 #dgl5Text:after {
   content: attr(title);
   position: absolute;
-  left: 43%;
+  left: 43.1%;
 }
 
 #dgl5Text:before {
