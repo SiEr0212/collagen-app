@@ -315,6 +315,16 @@ font-size: 2vh;
 	-webkit-animation: hue 10s infinite linear;
 }
 
+@-webkit-keyframes hue {
+  from {
+    -webkit-filter: hue-rotate(0deg);
+  }
+  to {
+    -webkit-filter: hue-rotate(-360deg);
+  }
+}
+
+
 /* .blur-animation {
   -webkit-animation: blur-in-and-out 100s infinite;
 }
