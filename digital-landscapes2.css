@@ -309,10 +309,10 @@ font-size: 2vh;
   /* color: yellow; */
   -webkit-animation: blur-in-and-out 12s infinite;
   color: #f35626;
-	background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	-webkit-animation: hue 10s infinite linear;
+  background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: hue 10s infinite linear;
 }
 
 @-webkit-keyframes hue {
@@ -323,7 +323,6 @@ font-size: 2vh;
     -webkit-filter: hue-rotate(-360deg);
   }
 }
-
 
 /* .blur-animation {
   -webkit-animation: blur-in-and-out 100s infinite;
