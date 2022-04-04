@@ -306,8 +306,13 @@ font-size: 2vh;
   font-size: 18vh;
   text-align: center;
   font-weight: 600;
-  color: yellow;
+  /* color: yellow; */
   -webkit-animation: blur-in-and-out 12s infinite;
+  color: #f35626;
+	background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-webkit-animation: hue 10s infinite linear;
 }
 
 /* .blur-animation {
