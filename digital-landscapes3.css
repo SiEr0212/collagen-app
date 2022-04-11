@@ -17,6 +17,12 @@ html {
   /* background-color: aquamarine; */
 }
 
+@keyframes ftmove {
+  50% {
+    color: rgba(214, 115, 105); 
+    letter-spacing: 20px;
+    margin: 20px;
+  }
 .redPillar {
   position: absolute;
   top: 48.5%;
@@ -182,5 +188,3 @@ html {
   font-family: "Raleway", sans-serif;
   color: #000;
 }
-
-
