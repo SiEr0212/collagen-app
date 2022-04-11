@@ -19,7 +19,7 @@ html {
 
 @keyframes ftmove {
   50% {
-    color: rgba(214, 115, 105); 
+    color: rgba(214, 115, 105);
     letter-spacing: 20px;
     margin: 20px;
   }
