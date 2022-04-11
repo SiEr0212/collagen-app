@@ -18,7 +18,7 @@ html {
 }
 
 @keyframes ftmove {
-  50% {
+  10% {
     color: rgba(214, 115, 105);
     letter-spacing: 20px;
     margin: 20px;
