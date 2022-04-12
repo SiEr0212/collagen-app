@@ -17,6 +17,14 @@ html {
   /* background-color: aquamarine; */
 }
 
+@keyframes ftmove {
+  50% {
+    color: rgba(214, 115, 105);
+    letter-spacing: 10px;
+    margin: 20px;
+  }
+}
+
 #dgl3Text2 {
   font-family: "Yantramanav", sans-serif;
   font-size: 22vh;
@@ -26,13 +34,7 @@ html {
   animation: ftmove2 10s infinite;
   /* background-color: aquamarine; */
 }
-@keyframes ftmove {
-  50% {
-    color: rgba(214, 115, 105);
-    letter-spacing: 10px;
-    margin: 20px;
-  }
-}
+
 
 .redPillar {
   position: absolute;
