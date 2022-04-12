@@ -16,7 +16,15 @@ html {
   animation: ftmove 10s infinite;
   /* background-color: aquamarine; */
 }
-
+#dgl3Text {
+  font-family: "Yantramanav", sans-serif;
+  font-size: 22vh;
+  text-align: center;
+  font-weight: 600;
+  color: yellow;
+  animation: ftmove 10s infinite;
+  /* background-color: aquamarine; */
+}
 @keyframes ftmove {
   50% {
     color: rgba(214, 115, 105);
