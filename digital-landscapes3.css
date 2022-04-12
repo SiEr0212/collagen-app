@@ -23,7 +23,7 @@ html {
   text-align: center;
   font-weight: 600;
   color: yellow;
-  animation: ftmove 10s infinite;
+  animation: ftmove2 10s infinite;
   /* background-color: aquamarine; */
 }
 @keyframes ftmove {
