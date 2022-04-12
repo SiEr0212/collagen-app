@@ -35,7 +35,7 @@ html {
   /* background-color: aquamarine; */
 }
 
-@keyframes2 ftmove {
+@keyframes ftmove2 {
   50% {
     color: orange;
     letter-spacing: 10px;
