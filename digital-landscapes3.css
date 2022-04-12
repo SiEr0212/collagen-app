@@ -31,8 +31,7 @@ html {
   text-align: center;
   font-weight: 600;
   color: yellow;
-  animation: ftmove2 10s infinite;
-  /* background-color: aquamarine; */
+  animation: ftmove2 10s infinite
 }
 
 @keyframes ftmove2 {
