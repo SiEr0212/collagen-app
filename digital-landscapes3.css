@@ -36,7 +36,7 @@ html {
 
 @keyframes ftmove2 {
   50% {
-    color: #C84E4D/* rgba(214, 115, 105); */;
+    color: #c84e4d /* rgba(214, 115, 105); */;
     letter-spacing: 10px;
     margin: 10px;
     font-weight: 900;
