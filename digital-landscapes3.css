@@ -13,12 +13,12 @@ html {
   text-align: center;
   font-weight: 600;
   color: yellow;
-  animation: ftmove 10s infinite
+  animation: ftmove 10s infinite;
 }
 
 @keyframes ftmove {
   50% {
-    color: #92C0CA;
+    color: #92c0ca;
     letter-spacing: 10px;
     margin: 10px;
   }
@@ -30,17 +30,16 @@ html {
   text-align: center;
   font-weight: 600;
   color: yellow;
-  animation: ftmove2 10s infinite
+  animation: ftmove2 10s infinite;
 }
 
 @keyframes ftmove2 {
   50% {
-    color:  rgba(214, 115, 105);
+    color: rgba(214, 115, 105);
     letter-spacing: 10px;
     margin: 10px;
   }
 }
-
 
 .redPillar {
   position: absolute;
