@@ -36,7 +36,7 @@ html {
 
 @keyframes ftmove2 {
   50% {
-    font-family: "Yantramanav", sans-serif;
+    
     color: #c84e4d /* rgba(214, 115, 105); */;
     letter-spacing: 10px;
     margin: 10px;
