@@ -26,7 +26,8 @@ html {
   }
   75%{
     font-family: "Yantramanav", sans-serif;
-    color:#001d6e
+    color:#001d6e;
+    letter-spacing: 5px;
   }
 }
 
