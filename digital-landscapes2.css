@@ -315,7 +315,7 @@ a {
     moveY2 13.4s linear 0s infinite alternate;
 }
 
-.box2 :hover {
+.box3 :hover {
   transform: scale(2.5);
   background-color: #ff0a84;
 }
