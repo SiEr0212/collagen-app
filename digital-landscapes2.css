@@ -296,12 +296,12 @@ a {
   }
 }
 
-.box2 b {
+.box3 b {
   display: block;
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background-color: #3673cf;
+  background-color: #83cf36;
   box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
     15px 15px 2px rgba(0, 0, 0, 0.04);
   position: absolute;
@@ -315,9 +315,9 @@ a {
     moveY2 13.4s linear 0s infinite alternate;
 }
 
-.box2 :hover {
+.box3 :hover {
   transform: scale(2.5);
-  background-color: #ff0a84;
+  background-color: #99ff0a;
 }
 
 @-webkit-keyframes moveX2 {
