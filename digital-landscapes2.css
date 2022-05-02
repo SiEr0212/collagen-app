@@ -354,15 +354,15 @@ a {
 }
 @-webkit-keyframes moveY2 {
   from {
-    top: px;
+    top: 0px;
   }
   to {
-    top: 280;
+    top: 280px;
   }
 }
 @-moz-keyframes moveY2 {
   from {
-    top: 980px;
+    top: px;
   }
   to {
     top: 0;
