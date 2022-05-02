@@ -370,15 +370,15 @@ a {
 }
 @-o-keyframes moveY2 {
   from {
-    top: 980px;
+    top: 0px;
   }
   to {
-    top: 0;
+    top: 9800;
   }
 }
 @keyframes moveY2 {
   from {
-    top: 980px;
+    top: 0px;
   }
   to {
     top: 0;
