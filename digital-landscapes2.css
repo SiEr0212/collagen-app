@@ -362,10 +362,10 @@ a {
 }
 @-moz-keyframes moveY2 {
   from {
-    top: px;
+    top: 0px;
   }
   to {
-    top: 0;
+    top: 980;
   }
 }
 @-o-keyframes moveY2 {
