@@ -394,14 +394,14 @@ a {
   box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
     15px 15px 2px rgba(0, 0, 0, 0.04);
   position: absolute;
-  -webkit-animation: moveX2 13.05s linear 0s infinite alternate,
-    moveY2 13.4s linear 0s infinite alternate;
-  -moz-animation: moveX2 13.05s linear 0s infinite alternate,
-    moveY2 13.4s linear 0s infinite alternate;
-  -o-animation: moveX2 13.05s linear 0s infinite alternate,
-    moveY1 13.4s linear 0s infinite alternate;
-  animation: moveX2 13.05s linear 0s infinite alternate,
-    moveY2 13.4s linear 0s infinite alternate;
+  -webkit-animation: omoveX2 13.05s linear 0s infinite alternate,
+    omoveY2 13.4s linear 0s infinite alternate;
+  -moz-animation: omoveX2 13.05s linear 0s infinite alternate,
+    omoveY2 13.4s linear 0s infinite alternate;
+  -o-animation: omoveX2 13.05s linear 0s infinite alternate,
+    omoveY1 13.4s linear 0s infinite alternate;
+  animation: omoveX2 13.05s linear 0s infinite alternate,
+    omoveY2 13.4s linear 0s infinite alternate;
 }
 
 .box4 :hover {
@@ -409,7 +409,7 @@ a {
   background-color: #ff0ad2;
 }
 
-@-webkit-keyframes moveX2 {
+@-webkit-keyframes omoveX2 {
   from {
     left: 680px;
   }
@@ -417,7 +417,7 @@ a {
     left: 0;
   }
 }
-@-moz-keyframes moveX2 {
+@-moz-keyframes omoveX2 {
   from {
     left: 1480px;
   }
@@ -425,7 +425,7 @@ a {
     left: 0;
   }
 }
-@-o-keyframes moveX2 {
+@-o-keyframes omoveX2 {
   from {
     left: 1980px;
   }
@@ -433,7 +433,7 @@ a {
     left: 0;
   }
 }
-@keyframes moveX2 {
+@keyframes omoveX2 {
   from {
     left: 1980px;
   }
@@ -441,7 +441,7 @@ a {
     left: 0;
   }
 }
-@-webkit-keyframes moveY2 {
+@-webkit-keyframes omoveY2 {
   from {
     top: 0px;
   }
@@ -472,7 +472,7 @@ a {
   to {
     top: 1980px;
   }
-}
+};
 
 .dgl2Text {
   font-family: "Yantramanav", sans-serif;
