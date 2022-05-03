@@ -385,12 +385,12 @@ a {
   }
 }
 
-.box3 b {
+.box4 b {
   display: block;
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background-color: #83cf36;
+  background-color: #cf36cf;
   box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
     15px 15px 2px rgba(0, 0, 0, 0.04);
   position: absolute;
@@ -411,7 +411,7 @@ a {
 
 @-webkit-keyframes moveX2 {
   from {
-    left: 1480px;
+    left: 680px;
   }
   to {
     left: 0;
@@ -419,7 +419,7 @@ a {
 }
 @-moz-keyframes moveX2 {
   from {
-    left: 2480px;
+    left: 1480px;
   }
   to {
     left: 0;
@@ -427,7 +427,7 @@ a {
 }
 @-o-keyframes moveX2 {
   from {
-    left: 980px;
+    left: 1980px;
   }
   to {
     left: 0;
@@ -435,7 +435,7 @@ a {
 }
 @keyframes moveX2 {
   from {
-    left: 980px;
+    left: 1980px;
   }
   to {
     left: 0;
@@ -446,7 +446,7 @@ a {
     top: 0px;
   }
   to {
-    top: 280px;
+    top: 1280px;
   }
 }
 @-moz-keyframes moveY2 {
@@ -462,7 +462,7 @@ a {
     top: 0px;
   }
   to {
-    top: 980px;
+    top: 1980px;
   }
 }
 @keyframes moveY2 {
@@ -470,7 +470,7 @@ a {
     top: 0px;
   }
   to {
-    top: 980px;
+    top: 1980px;
   }
 }
 
