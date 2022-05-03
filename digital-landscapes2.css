@@ -465,14 +465,14 @@ a {
     top: 1980px;
   }
 }
-@keyframes moveY2 {
+@keyframes omoveY2 {
   from {
     top: 0px;
   }
   to {
     top: 1980px;
   }
-};
+}
 
 .dgl2Text {
   font-family: "Yantramanav", sans-serif;
