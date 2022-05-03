@@ -404,9 +404,9 @@ a {
     moveY2 13.4s linear 0s infinite alternate;
 }
 
-.box3 :hover {
+.box4 :hover {
   transform: scale(2.5);
-  background-color: #99ff0a;
+  background-color: #ff0ad2;
 }
 
 @-webkit-keyframes moveX2 {
