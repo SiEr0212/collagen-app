@@ -479,7 +479,7 @@ a {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background-color: #cf36cf;
+  background-color: #ea0000;
   box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
     15px 15px 2px rgba(0, 0, 0, 0.04);
   position: absolute;
@@ -495,7 +495,7 @@ a {
 
 .box4 :hover {
   transform: scale(2.5);
-  background-color: #ff0ad2;
+  background-color: #13fff3;
 }
 
 @-webkit-keyframes omoveX2 {
