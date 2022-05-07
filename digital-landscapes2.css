@@ -490,7 +490,7 @@ a {
   -o-animation: omoveX2 13.05s linear 0s infinite alternate,
     omoveY1 16.5s linear 0s infinite alternate;
   animation: omoveX2 13.05s linear 0s infinite alternate,
-    omoveY2 16.4s linear 0s infinite alternate;
+    omoveY2 16.5s linear 0s infinite alternate;
 }
 
 .box4 :hover {
