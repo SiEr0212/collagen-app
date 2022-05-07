@@ -500,7 +500,7 @@ a {
 
 @-webkit-keyframes omoveX2 {
   from {
-    left: 680px;
+    left: 1680px;
   }
   to {
     left: 0;
