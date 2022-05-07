@@ -477,7 +477,7 @@ a {
 .box4 b {
   display: block;
   width: 30px;
-  height: 40px;
+  height: 30px;
   border-radius: 50%;
   background-color: #ea0000;
   box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
