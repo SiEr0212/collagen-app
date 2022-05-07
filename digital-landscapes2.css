@@ -486,7 +486,7 @@ a {
   -webkit-animation: omoveX2 16.05s linear 0s infinite alternate,
     omoveY2 16.4s linear 0s infinite alternate;
   -moz-animation: omoveX2 13.05s linear 0s infinite alternate,
-    omoveY2 13.4s linear 0s infinite alternate;
+    omoveY2 16.4s linear 0s infinite alternate;
   -o-animation: omoveX2 13.05s linear 0s infinite alternate,
     omoveY1 13.4s linear 0s infinite alternate;
   animation: omoveX2 13.05s linear 0s infinite alternate,
