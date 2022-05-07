@@ -508,7 +508,7 @@ a {
 }
 @-moz-keyframes omoveX2 {
   from {
-    left: 1480px;
+    left: 480px;
   }
   to {
     left: 0;
