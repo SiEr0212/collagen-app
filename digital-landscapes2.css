@@ -485,7 +485,7 @@ a {
   position: absolute;
   -webkit-animation: omoveX2 13.05s linear 0s infinite alternate,
     omoveY2 13.3s linear 0s infinite alternate;
-  -moz-animation: omoveX2 16.05s linear 0s infinite alternate,
+  -moz-animation: omoveX2 13.05s linear 0s infinite alternate,
     omoveY2 13.5s linear 0s infinite alternate;
   -o-animation: omoveX2 16.05s linear 0s infinite alternate,
     omoveY1 16.5s linear 0s infinite alternate;
