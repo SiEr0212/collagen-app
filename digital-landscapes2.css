@@ -483,11 +483,11 @@ a {
   box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
     15px 15px 2px rgba(0, 0, 0, 0.04);
   position: absolute;
-  -webkit-animation: omoveX2 3.05s linear 0s infinite alternate,
+  -webkit-animation: omoveX2 13.05s linear 0s infinite alternate,
     omoveY2 13.3s linear 0s infinite alternate;
   -moz-animation: omoveX2 13.05s linear 0s infinite alternate,
     omoveY2 13.5s linear 0s infinite alternate;
-  -o-animation: omoveX2 3.05s linear 0s infinite alternate,
+  -o-animation: omoveX2 13.05s linear 0s infinite alternate,
     omoveY1 13.5s linear 0s infinite alternate;
   animation: omoveX2 6.05s linear 0s infinite alternate,
     omoveY2 13.5s linear 0s infinite alternate;
