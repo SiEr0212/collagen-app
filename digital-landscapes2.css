@@ -629,7 +629,7 @@ a {
 }
 @-moz-keyframes omoveY2 {
   from {
-    top: 0px;
+    top: 980px;
   }
   to {
     top: 980;
