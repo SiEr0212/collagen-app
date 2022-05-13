@@ -568,7 +568,7 @@ a {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background-color: #00deea;
+  background-color: #71ea00;
   box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
     15px 15px 2px rgba(0, 0, 0, 0.04);
   position: absolute;
@@ -589,10 +589,10 @@ a {
 
 @-webkit-keyframes omoveX2 {
   from {
-    left: 1680px;
+    left: 0px;
   }
   to {
-    left: 0;
+    left: 1600px;
   }
 }
 @-moz-keyframes omoveX2 {
