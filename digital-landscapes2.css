@@ -493,7 +493,7 @@ a {
     omoveY2 13.5s linear 0s infinite alternate;
 }
 
-.box4 :hover {
+.box5 :hover {
   transform: scale(2.5);
   background-color: #13fff3;
 }
