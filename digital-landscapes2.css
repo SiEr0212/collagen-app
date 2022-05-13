@@ -632,7 +632,7 @@ a {
     top: 980px;
   }
   to {
-    top: 980;
+    top: 0;
   }
 }
 @-o-keyframes omoveY2 {
