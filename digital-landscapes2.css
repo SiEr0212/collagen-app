@@ -605,10 +605,10 @@ a {
 }
 @-o-keyframes omoveX2 {
   from {
-    left: 1980px;
+    left: 0;
   }
   to {
-    left: 0;
+    left: 1980px;
   }
 }
 @keyframes omoveX2 {
