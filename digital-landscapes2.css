@@ -597,10 +597,10 @@ a {
 }
 @-moz-keyframes omoveX2 {
   from {
-    left: 480px;
+    left: 0;
   }
   to {
-    left: 0;
+    left: 480px;
   }
 }
 @-o-keyframes omoveX2 {
