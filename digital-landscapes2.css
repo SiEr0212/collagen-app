@@ -621,10 +621,10 @@ a {
 }
 @-webkit-keyframes omoveY2 {
   from {
-    top: 0px;
+    top: 1280px;
   }
   to {
-    top: 1280px;
+    top: 0px;
   }
 }
 @-moz-keyframes omoveY2 {
