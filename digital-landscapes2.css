@@ -563,7 +563,7 @@ a {
   }
 }
 
-.box5 b {
+.box6 b {
   display: block;
   width: 20px;
   height: 20px;
@@ -582,7 +582,7 @@ a {
     omoveY2 13.5s linear 0s infinite alternate;
 }
 
-.box4 :hover {
+.box6 :hover {
   transform: scale(2.5);
   background-color: #13fff3;
 }
