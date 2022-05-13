@@ -563,6 +563,95 @@ a {
   }
 }
 
+.box5 b {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #00deea;
+  box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
+    15px 15px 2px rgba(0, 0, 0, 0.04);
+  position: absolute;
+  -webkit-animation: omoveX2 13.05s linear 0s infinite alternate,
+    omoveY2 13.3s linear 0s infinite alternate;
+  -moz-animation: omoveX2 13.05s linear 0s infinite alternate,
+    omoveY2 13.5s linear 0s infinite alternate;
+  -o-animation: omoveX2 13.05s linear 0s infinite alternate,
+    omoveY1 13.5s linear 0s infinite alternate;
+  animation: omoveX2 4.05s linear 0s infinite alternate,
+    omoveY2 13.5s linear 0s infinite alternate;
+}
+
+.box4 :hover {
+  transform: scale(2.5);
+  background-color: #13fff3;
+}
+
+@-webkit-keyframes omoveX2 {
+  from {
+    left: 1680px;
+  }
+  to {
+    left: 0;
+  }
+}
+@-moz-keyframes omoveX2 {
+  from {
+    left: 480px;
+  }
+  to {
+    left: 0;
+  }
+}
+@-o-keyframes omoveX2 {
+  from {
+    left: 1980px;
+  }
+  to {
+    left: 0;
+  }
+}
+@keyframes omoveX2 {
+  from {
+    left: 1980px;
+  }
+  to {
+    left: 0;
+  }
+}
+@-webkit-keyframes omoveY2 {
+  from {
+    top: 0px;
+  }
+  to {
+    top: 1280px;
+  }
+}
+@-moz-keyframes omoveY2 {
+  from {
+    top: 0px;
+  }
+  to {
+    top: 980;
+  }
+}
+@-o-keyframes omoveY2 {
+  from {
+    top: 0px;
+  }
+  to {
+    top: 980px;
+  }
+}
+@keyframes omoveY2 {
+  from {
+    top: 0px;
+  }
+  to {
+    top: 1980px;
+  }
+}
+
 .dgl2Text {
   font-family: "Yantramanav", sans-serif;
   font-size: 20vh;
