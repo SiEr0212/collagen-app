@@ -476,8 +476,8 @@ a {
 
 .box5 b {
   display: block;
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
   background-color: #00deea;
   box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
