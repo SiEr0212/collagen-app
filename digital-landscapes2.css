@@ -645,10 +645,10 @@ a {
 }
 @keyframes omoveY2 {
   from {
-    top: 0px;
+    top: 1980p;
   }
   to {
-    top: 1980px;
+    top: 0px;
   }
 }
 
