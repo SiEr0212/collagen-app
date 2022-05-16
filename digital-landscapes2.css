@@ -495,7 +495,7 @@ a {
 
 .box5 :hover {
   transform: scale(2.5);
-  background-color: #64ff0a;
+  background-color: #030303;
 }
 
 @-webkit-keyframes moveX2 {
@@ -562,9 +562,10 @@ a {
     top: 980px;
   }
 }
+
 .dgl2Text {
   font-family: "Yantramanav", sans-serif;
-  font-size: 20vh;
+  font-size: 18vh;
   margin: 8;
   text-align: center;
   font-weight: 600;
