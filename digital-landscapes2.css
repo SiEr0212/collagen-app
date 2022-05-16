@@ -495,50 +495,50 @@ a {
 
 .box5 :hover {
   transform: scale(2.5);
-  background-color: #13fff3;
+  background-color: #64ff0a;
 }
 
-@-webkit-keyframes omoveX2 {
+@-webkit-keyframes moveX2 {
   from {
-    left: 1680px;
+    left: 1480px;
   }
   to {
     left: 0;
   }
 }
-@-moz-keyframes omoveX2 {
+@-moz-keyframes moveX2 {
   from {
-    left: 480px;
+    left: 2480px;
   }
   to {
     left: 0;
   }
 }
-@-o-keyframes omoveX2 {
+@-o-keyframes moveX2 {
   from {
-    left: 1980px;
+    left: 980px;
   }
   to {
     left: 0;
   }
 }
-@keyframes omoveX2 {
+@keyframes moveX2 {
   from {
-    left: 1980px;
+    left: 980px;
   }
   to {
     left: 0;
   }
 }
-@-webkit-keyframes omoveY2 {
+@-webkit-keyframes moveY2 {
   from {
     top: 0px;
   }
   to {
-    top: 1280px;
+    top: 280px;
   }
 }
-@-moz-keyframes omoveY2 {
+@-moz-keyframes moveY2 {
   from {
     top: 0px;
   }
@@ -546,7 +546,7 @@ a {
     top: 980;
   }
 }
-@-o-keyframes omoveY2 {
+@-o-keyframes moveY2 {
   from {
     top: 0px;
   }
@@ -554,88 +554,7 @@ a {
     top: 980px;
   }
 }
-@keyframes omoveY2 {
-  from {
-    top: 0px;
-  }
-  to {
-    top: 1980px;
-  }
-}
-
-.box6 b {
-  display: block;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background-color: #71ea00;
-  box-shadow: inset -5px -5px 5px rgba(0, 0, 0, 0.6),
-    15px 15px 2px rgba(0, 0, 0, 0.04);
-  position: absolute;
-  -webkit-animation: omoveX2 13.05s linear 0s infinite alternate,
-    omoveY2 13.3s linear 0s infinite alternate;
-  -moz-animation: omoveX2 13.05s linear 0s infinite alternate,
-    omoveY2 13.5s linear 0s infinite alternate;
-  -o-animation: omoveX2 13.05s linear 0s infinite alternate,
-    omoveY1 13.5s linear 0s infinite alternate;
-  animation: omoveX2 4.05s linear 0s infinite alternate,
-    omoveY2 13.5s linear 0s infinite alternate;
-}
-
-.box6 :hover {
-  transform: scale(2.5);
-  background-color: #13fff3;
-}
-
-@-webkit-keyframes omoveX2 {
-  from {
-    left: 0px;
-  }
-  to {
-    left: 1600px;
-  }
-}
-@-moz-keyframes omoveX2 {
-  from {
-    left: 0;
-  }
-  to {
-    left: 480px;
-  }
-}
-@-o-keyframes omoveX2 {
-  from {
-    left: 0;
-  }
-  to {
-    left: 1980px;
-  }
-}
-@keyframes omoveX2 {
-  from {
-    left: 0;
-  }
-  to {
-    left: 1980px;
-  }
-}
-@-webkit-keyframes omoveY2 {
-  from {
-    top: 1280px;
-  }
-  to {
-    top: 0px;
-  }
-}
-@-moz-keyframes omoveY2 {
-  from {
-    top: 980px;
-  }
-  to {
-    top: 0;
-  }
-}
-@-o-keyframes omoveY2 {
+@keyframes moveY2 {
   from {
     top: 0px;
   }
@@ -643,15 +562,6 @@ a {
     top: 980px;
   }
 }
-@keyframes omoveY2 {
-  from {
-    top: 1980p;
-  }
-  to {
-    top: 0px;
-  }
-}
-
 .dgl2Text {
   font-family: "Yantramanav", sans-serif;
   font-size: 20vh;
