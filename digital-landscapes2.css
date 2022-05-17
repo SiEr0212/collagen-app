@@ -567,6 +567,7 @@ a {
   font-family: "Yantramanav", sans-serif;
   font-size: 16vh;
   margin: 4%;
+  margin-bottom: 2%;
   text-align: center;
   font-weight: 600;
   -webkit-animation: blur-in-and-out 12s infinite;
