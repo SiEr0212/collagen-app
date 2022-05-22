@@ -1,6 +1,6 @@
 gsap.registerPlugin(SplitText);
 
-let split = SplitText.create(".word", {type: "chars,words"});
+let split = SplitText.create(".word", { type: "chars,words" });
 
 gsap.to(split.chars, {
   y: "-50%",
@@ -9,6 +9,6 @@ gsap.to(split.chars, {
   stagger: {
     each: 0.05,
     repeat: -1,
-    yoyo: true
-  }
+    yoyo: true,
+  },
 });
