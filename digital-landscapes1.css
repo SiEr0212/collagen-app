@@ -93,11 +93,13 @@ html {
     transform: scale(0.91);
     opacity: 50%;
     color: rgb(51, 255, 0);
+
   }
 
   45% {
     animation-timing-function: ease-out;
     transform: scale(1);
+    opacity: 80%;
     color: rgb(26, 9, 255);
   }
 }
