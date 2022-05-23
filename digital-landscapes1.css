@@ -73,6 +73,7 @@ html {
   0% {
     animation-timing-function: ease-out;
     transform: scale(1);
+    opacity: 10%;
     transform-origin: center center;
   }
 
