@@ -108,8 +108,8 @@ html {
 }
 
 #digital1{
-  
-} animation: horizontal-shaking 0.35s infinite;
+  animation: horizontal-shaking 0.35s infinite;
+} 
 
 @keyframes horizontal-shaking {
   0% { transform: translateX(0) }
