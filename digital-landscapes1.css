@@ -120,5 +120,5 @@ html {
 }
 
 #lichen1{
-  
+  animation: vertical-shaking 0.35s infinite;
 }
