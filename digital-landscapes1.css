@@ -107,6 +107,8 @@ html {
   }
 }
 
+animation: horizontal-shaking 0.35s infinite;
+
 @keyframes horizontal-shaking {
   0% { transform: translateX(0) }
   25% { transform: translateX(5px) }
