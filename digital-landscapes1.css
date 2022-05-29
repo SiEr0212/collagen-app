@@ -108,7 +108,7 @@ html {
 }
 
 #digital1 {
-  animation: horizontal-shaking 0.s infinite;
+  animation: horizontal-shaking 0.9s infinite;
 }
 
 @keyframes horizontal-shaking {
