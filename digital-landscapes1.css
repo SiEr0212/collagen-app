@@ -130,7 +130,7 @@ html {
 }
 
 #lichen1 {
-  animation: vertical-shaking 0.9s ;
+  animation: vertical-shaking 0.9s linear ;
 }
 
 @keyframes vertical-shaking {
