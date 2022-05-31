@@ -83,7 +83,7 @@ html {
 
 @keyframes anim-popoutin {
   0% {
-    color: black;
+    color: rgb(36, 255, 2);
     transform: scale(0);
     opacity: 0;
     text-shadow: 0 0 0 rgba(0, 0, 0, 0);
