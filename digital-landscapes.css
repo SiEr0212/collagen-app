@@ -103,7 +103,7 @@ html {
   0% {
     animation-timing-function: ease-in;
     transform: rotate(0deg) scale(1);
-    opacity: 10%;
+    opacity: 40%;
   }
   25% {
     animation-timing-function: ease-out;
