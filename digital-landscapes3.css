@@ -24,6 +24,13 @@ html {
     margin: 10px;
     font-weight: 900;
   }
+  50% {
+    font-family: "Roboto Mono", monospace;
+    color: #92c0ca;
+    letter-spacing: 10px;
+    margin: 10px;
+    font-weight: 900;
+  }
   75% {
     font-family: "Yantramanav", sans-serif;
     color: #1eae3d;
