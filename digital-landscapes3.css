@@ -48,9 +48,9 @@ html {
 }
 
 @keyframes ftmove2 {
-  50% {
+  25% {
     font-family: "Roboto Mono", monospace;
-    color: #c84e4d /* rgba(214, 115, 105); */;
+    color: #008cff /* rgba(214, 115, 105); */;
     letter-spacing: 10px;
     margin: 10px;
     font-weight: 900;
