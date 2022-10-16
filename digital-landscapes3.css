@@ -51,7 +51,7 @@ html {
   25% {
     font-family: "Roboto Mono", monospace;
     color: #008cff /* rgba(214, 115, 105); */;
-    letter-spacing: 10px;
+    letter-spacing: 8px;
     margin: 10px;
     font-weight: 900;
   }
