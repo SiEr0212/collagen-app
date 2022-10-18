@@ -28,7 +28,6 @@ html {
   100% {
     transform: translatex(500px) translatey(-1300px);
   }
-  
 }
 
 .StarOmiTeil {
@@ -55,11 +54,11 @@ html {
 }
 
 #dgl4Text {
-  font-family: 'Silkscreen', cursive;
+  font-family: "Silkscreen", cursive;
   font-size: 10vh;
   text-align: center;
   font-weight: 600;
-  color:chartreuse;
+  color: chartreuse;
   opacity: 80%;
   margin-left: 37%;
   margin-top: 6%;
