@@ -11,9 +11,13 @@
     <link href="https://fonts.googleapis.com/css2?family=Yantramanav&display=swap" rel="stylesheet">
     <script type="text/javascript">
       
-      if (screen.width <= 700) {
-      document.location = "digital-landscapes7.html";
-      }
+      window.addEventListener('resize', function() {
+	if (window.innerWidth <= 600) {
+		window.location.href = "digital-landscapes7.html"; 
+	}
+});
+      
+      
       
       </script>
     <title>Digital Landscapes</title>
