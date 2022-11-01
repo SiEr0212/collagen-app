@@ -150,3 +150,9 @@ html {
     transform: translateY(0);
   }
 }
+
+@media only screen and (hover: none) and (pointer: coarse){
+
+  /* Regular CSS rules here*/
+  
+  }
