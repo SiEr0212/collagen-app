@@ -116,3 +116,14 @@ html {
     opacity: 40%;
   }
 } ;
+
+@media only screen and (hover: none) and (pointer: coarse){
+
+  /* Regular CSS rules here*/
+  html {
+    
+    background-image: url(assets/TRIANGLEofMADNESS_MOBILEVIEW_1080x720.jpg);
+   
+  
+  }
+}
