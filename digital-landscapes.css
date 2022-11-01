@@ -130,8 +130,10 @@ html {
 @media only screen and (max-device-width: 640px) {
   html {
     background-image: url(assets/TRIANGLEofMADNESS_MOBILEVIEW_1080x720.jpg);
+    background-size: contain;
     
   }
   .yellowPollen{display:none}
-  
+  .redPollen{display: none;}
+  .purplePollen{display: none;}
 }
