@@ -34,12 +34,11 @@
         class="pollen3"
     /></a>
     <script type="text/javascript">
-      
-      window.addEventListener('resize', function() {
-	if (window.innerWidth <= 600) {
-		window.location.href = "digital-landscapes7.html"; 
-	}
-});
-      </script>
+      window.on('load resize',function(){
+          if(window.width() < 950){
+              window.location = "https://www.google.com"
+          }
+      });
+  </script>
   </body>
 </html>
