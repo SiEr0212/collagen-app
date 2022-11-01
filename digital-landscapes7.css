@@ -1,7 +1,8 @@
 html {
     min-height: 100%;
     background-image: url(assets/TRIANGLEofMADNESS_MOBILEVIEW_1080x720.jpg);
-    background-size: cover;
+    background-size: contain;
+    background-color:#1A191D;
     background-repeat: no-repeat;
     background-position: center center;
     overflow: hidden;
