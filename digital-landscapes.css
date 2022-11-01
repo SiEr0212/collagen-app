@@ -130,10 +130,22 @@ html {
 @media only screen and (max-device-width: 640px) {
   html {
     background-image: url(assets/TRIANGLEofMADNESS_MOBILEVIEW_1080x720.jpg);
-    background-size: contain;
-    
+    background-size:cover;
+    background-color:#1A191D;
+    margin-top: 15%;
+   
   }
   .yellowPollen{display:none}
   .redPollen{display: none;}
   .purplePollen{display: none;}
+
+  .homeText {
+    font-family:'Yantramanav', sans-serif;
+    font-size: 6vh;
+    text-align: center;
+    font-weight: 600;
+    color: yellow;
+    -webkit-animation: blur-in-and-out 12s infinite;
+    margin-top: 60%;
+  }
 }
