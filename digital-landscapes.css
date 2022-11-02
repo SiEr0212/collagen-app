@@ -121,18 +121,18 @@ html {
 @media only screen and (max-device-width: 640px) {
   html {
     background-image: url(assets/TRIANGLEofMADNESS_MOBILEVIEW_BLACKBACKGROUND.png);
-    background-size:cover;
+    background-size:contain;
     background-color:#1A191D;
-    
+    margin-top: 2vh;
    
   }
   .yellowPollen{
     
       content:url(./assets/TRIANGLEofMADNESS_LO_REDBLOB.png);
-      max-height: 16vh;
+      max-height: 14vh;
       position: absolute;
-      top: 17%;
-      left: -60%;
+      top: 3%;
+      left: -68%;
       right: 0;
       margin: 0 auto;
   }
