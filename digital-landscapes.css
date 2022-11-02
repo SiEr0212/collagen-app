@@ -125,10 +125,11 @@ html {
     content: url(./assets/TRIANGLEofMADNESS_LO_REDBLOB.png);
     max-height: 14.5vh;
     position: absolute;
-    top: 6.5%;
-    left: -58%;
+    top: 5%;
+    left: -56%;
     right: 0;
     margin: 0 auto;
+    animation: like 6s infinite linear;
   }
   .redPollen {
     display: none;
