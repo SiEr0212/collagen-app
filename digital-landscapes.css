@@ -129,13 +129,17 @@ html {
 }
 @media only screen and (max-device-width: 640px) {
   html {
-    background-image: url(assets/TRIANGLEofMADNESS_MOBILEVIEW_1080x720.jpg);
+    background-image: url(assets/TRIANGLEofMADNESS_MOBILEVIEW_BLACKBACKGROUND.png);
     background-size:cover;
     background-color:#1A191D;
-    margin-top: 15%;
+    
    
   }
-  .yellowPollen{display:none}
+  .yellowPollen{
+    
+      content:url(./assets/TRIANGLEofMADNESS_LO_REDBLOB.png);
+  
+  }
   .redPollen{display: none;}
   .purplePollen{display: none;}
 
