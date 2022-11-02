@@ -146,6 +146,7 @@ html {
     50%,
     100% {
       transform: scale(1);
+      opacity: 100%;
     }
   }
   .redPollen {
