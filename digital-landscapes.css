@@ -137,11 +137,11 @@ html {
 
   .pollen1 {
     position: absolute;
-    top: 37%;
+    top: 17%;
     left: 66%;
     right: 0;
     margin: 0 auto;
-    max-height: 22%;
+    max-height: 12%;
     z-index: 6;
   }
 
