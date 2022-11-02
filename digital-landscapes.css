@@ -129,19 +129,21 @@ html {
   .yellowPollen{
     
       content:url(./assets/TRIANGLEofMADNESS_LO_REDBLOB.png);
-  
+      max-height: 16vh;
+      position: absolute;
+      top: 17%;
+      left: -60%;
+      right: 0;
+      margin: 0 auto;
   }
   .redPollen{display: none;}
   .purplePollen{display: none;}
 
 
   .pollen1 {
-    position: absolute;
-    top: 17%;
-    left: 66%;
-    right: 0;
-    margin: 0 auto;
-    max-height: 12%;
+    
+  /*   max-height: 12%; */
+  
     z-index: 6;
   }
 
