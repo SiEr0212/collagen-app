@@ -8,7 +8,7 @@ html {
 }
 
 .homeText {
-  font-family:'Yantramanav', sans-serif;
+  font-family: "Yantramanav", sans-serif;
   font-size: 22vh;
   text-align: center;
   font-weight: 600;
@@ -106,49 +106,45 @@ html {
     transform: rotate(360deg) scale(1);
     opacity: 40%;
   }
-} ;
+}
 
-@media only screen and (hover: none) and (pointer: coarse){
-
+@media only screen and (hover: none) and (pointer: coarse) {
   /* Regular CSS rules here*/
   html {
-    
     background-image: url(assets/TRIANGLEofMADNESS_MOBILEVIEW_1080x720.jpg);
-   
-  
   }
 }
 @media only screen and (max-device-width: 640px) {
   html {
     background-image: url(assets/TRIANGLEofMADNESS_MOBILEVIEW_BLACKBACKGROUND.png);
-    background-size:contain;
-    background-color:#1A191D;
-  /*   margin-top: 2vh; */
-   
+    background-size: contain;
+    background-color: #1a191d;
+    /*   margin-top: 2vh; */
   }
-  .yellowPollen{
-    
-      content:url(./assets/TRIANGLEofMADNESS_LO_REDBLOB.png);
-      max-height: 14vh;
-      position: absolute;
-      top: 3%;
-      left: -68%;
-      right: 0;
-      margin: 0 auto;
+  .yellowPollen {
+    content: url(./assets/TRIANGLEofMADNESS_LO_REDBLOB.png);
+    max-height: 14vh;
+    position: absolute;
+    top: 3%;
+    left: -68%;
+    right: 0;
+    margin: 0 auto;
   }
-  .redPollen{display: none;}
-  .purplePollen{display: none;}
-
+  .redPollen {
+    display: none;
+  }
+  .purplePollen {
+    display: none;
+  }
 
   .pollen1 {
-    
-  /*   max-height: 12%; */
-  
+    /*   max-height: 12%; */
+
     z-index: 6;
   }
 
   .homeText {
-    font-family:'Yantramanav', sans-serif;
+    font-family: "Yantramanav", sans-serif;
     font-size: 6vh;
     text-align: center;
     font-weight: 600;
