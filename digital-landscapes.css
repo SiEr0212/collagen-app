@@ -73,15 +73,6 @@ html {
   z-index: 6;
 }
 
-/* nav {
-  position: absolute;
-  top: "your percentage";
-  left: 0;
-  right: 0;
-  margin: 0 auto;
-  border: solid;
-} */
-
 @keyframes like {
   0% {
     animation-timing-function: ease-in;
@@ -138,19 +129,21 @@ html {
   .yellowPollen{
     
       content:url(./assets/TRIANGLEofMADNESS_LO_REDBLOB.png);
-      .pollen1 {
-        position: absolute;
-        top: 37%;
-        left: 66%;
-        right: 0;
-        margin: 0 auto;
-        max-height: 62%;
-        z-index: 6;
-      }
   
   }
   .redPollen{display: none;}
   .purplePollen{display: none;}
+
+
+  .pollen1 {
+    position: absolute;
+    top: 37%;
+    left: 66%;
+    right: 0;
+    margin: 0 auto;
+    max-height: 22%;
+    z-index: 6;
+  }
 
   .homeText {
     font-family:'Yantramanav', sans-serif;
