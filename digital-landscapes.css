@@ -129,7 +129,7 @@ html {
     left: -56%;
     right: 0;
     margin: 0 auto;
-    animation: like 6s infinite linear;
+    animation: like 10s infinite linear;
   }
 
   @keyframes like {
