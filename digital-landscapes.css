@@ -110,11 +110,11 @@ html {
 
 /* MOBILE DEVICE LAYOUT */
 
-@media only screen and (hover: none) and (pointer: coarse) {
+/* @media only screen and (hover: none) and (pointer: coarse) {
   html {
     background-image: url(assets/TRIANGLEofMADNESS_MOBILEVIEW_1080x720.jpg);
   }
-}
+} */
 @media only screen and (max-device-width: 640px) {
   html {
     background-image: url(assets/TRIANGLEofMADNESS_MOBILEVIEW_BLACKBACKGROUND.png);
