@@ -115,6 +115,11 @@ html {
     background-size: contain;
     background-color: #1a191d;
     /*   margin-top: 2vh; */
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
   }
 
 }
