@@ -175,7 +175,7 @@ html {
     animation: like 10s infinite linear;
   }
 
-  .linkMoldDown {
+  .moldDown {
     max-height: 20vh;
     position: absolute;
     top: 5%;
