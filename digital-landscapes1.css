@@ -166,9 +166,9 @@ html {
     /*   margin-top: 2vh; */
   }
   .moldUp {
-    max-height: 50vh;
+    max-height: 20vh;
     position: absolute;
-    top: 5%;
+    top: 65%;
     left: -56%;
     right: 0;
     margin: 0 auto;
@@ -178,8 +178,8 @@ html {
   .moldDown {
     max-height: 20vh;
     position: absolute;
-    top: 5%;
-    left: -56%;
+    top: 75%;
+    left: 50%;
     right: 0;
     margin: 0 auto;
     animation: like 10s infinite linear;
