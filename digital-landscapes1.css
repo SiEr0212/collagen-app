@@ -173,10 +173,9 @@ html {
     right: 0;
     margin: 0 auto;
     animation: like 10s infinite linear;
-  }  
-  
+  }
+
   .linkMoldDown {
-    
     max-height: 20vh;
     position: absolute;
     top: 5%;
@@ -185,8 +184,6 @@ html {
     margin: 0 auto;
     animation: like 10s infinite linear;
   }
-
-
 
   @keyframes like {
     0% {
