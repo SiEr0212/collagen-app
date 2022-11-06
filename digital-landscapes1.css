@@ -172,7 +172,7 @@ html {
     left: -56%;
     right: 0;
     margin: 0 auto;
-    /* animation: like 10s infinite linear; */
+    animation: like 10s infinite linear;
   }
 
   .moldDown {
@@ -182,7 +182,7 @@ html {
     left: 50%;
     right: 0;
     margin: 0 auto;
-    /* animation: like 10s infinite linear; */
+    animation: like 10s infinite linear;
   }
 
   @keyframes like {
@@ -202,18 +202,7 @@ html {
       opacity: 100%;
     }
   }
-  .redPollen {
-    display: none;
-  }
-  .purplePollen {
-    display: none;
-  }
-
-  .pollen1 {
-    /*   max-height: 12%; */
-
-    z-index: 6;
-  }
+  
 
   .homeText {
     font-family: "Yantramanav", sans-serif;
