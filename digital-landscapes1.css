@@ -203,13 +203,5 @@ html {
     }
   }
 
-  .homeText {
-    font-family: "Yantramanav", sans-serif;
-    font-size: 6vh;
-    text-align: center;
-    font-weight: 600;
-    color: yellow;
-    -webkit-animation: blur-in-and-out 12s infinite;
-    margin-top: 60%;
-  }
+ 
 }
