@@ -166,7 +166,7 @@ html {
     /*   margin-top: 2vh; */
   }
   .linkMoldUp {
-    max-height: 14.5vh;
+    max-height: 50vh;
     position: absolute;
     top: 5%;
     left: -56%;
@@ -177,7 +177,7 @@ html {
   
   .linkMoldDown {
     
-    max-height: 14.5vh;
+    max-height: 20vh;
     position: absolute;
     top: 5%;
     left: -56%;
