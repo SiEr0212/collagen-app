@@ -204,6 +204,8 @@ html {
   }
 
   .dgl1Text {
-    margin-left: 37%;
+    font-size: 6vh;
+    margin-left: 0;
+    margin-right: 40%;
   }
 }
