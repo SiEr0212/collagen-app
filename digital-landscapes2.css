@@ -586,3 +586,14 @@ a {
     -webkit-filter: hue-rotate(-360deg);
   }
 }
+
+
+@media only screen and (max-device-width: 640px) {
+  html {
+    /* background-image: url(assets/cluodhighrise1.png); */
+    background-size: contain;
+    background-color: #1a191d;
+    /*   margin-top: 2vh; */
+  }
+
+}
