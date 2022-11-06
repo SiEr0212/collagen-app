@@ -173,7 +173,20 @@ html {
     right: 0;
     margin: 0 auto;
     animation: like 10s infinite linear;
+  }  
+  
+  .linkMoldUp {
+    
+    max-height: 14.5vh;
+    position: absolute;
+    top: 5%;
+    left: -56%;
+    right: 0;
+    margin: 0 auto;
+    animation: like 10s infinite linear;
   }
+
+
 
   @keyframes like {
     0% {
