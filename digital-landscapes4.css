@@ -119,6 +119,11 @@ html {
     margin-left: 17%;
     margin-top: 6%;
   }
+  #dgl4Text {
+    animation: animated-text 4s steps(29, end) 1s 1 normal both,
+      animated-cursor 600ms steps(29, end) infinite;
+  }
+  
 
   @keyframes like {
     0% {
