@@ -107,7 +107,7 @@ html {
   }
 
   #moon {
-    display: none;
+    content: url(./assets/POLLENSWIRL_POLLENTEIL_300DPI.png);;
   }
 
   .linkStarOmiTeil {
