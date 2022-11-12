@@ -105,16 +105,7 @@ html {
     background-color: #1a191d;
     /*   margin-top: 2vh; */
   }
-  .yellowPollen {
-    content: url(./assets/TRIANGLEofMADNESS_LO_REDBLOB.png);
-    max-height: 14.5vh;
-    position: absolute;
-    top: 5%;
-    left: -56%;
-    right: 0;
-    margin: 0 auto;
-    animation: like 10s infinite linear;
-  }
+
 
   @keyframes like {
     0% {
