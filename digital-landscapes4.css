@@ -106,7 +106,6 @@ html {
     /*   margin-top: 2vh; */
   }
 
-
   @keyframes like {
     0% {
       animation-timing-function: ease-in;
@@ -124,5 +123,4 @@ html {
       opacity: 100%;
     }
   }
-
 }
