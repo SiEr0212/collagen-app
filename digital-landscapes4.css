@@ -112,7 +112,7 @@ html {
 
   
   .StarOmiTeil {
-    content: url(./assets/POLLENSWIRL_POLLENTEIL_300DPI.png)
+    content: url(./assets/POLLENSWIRL_POLLENTEIL_300DPI.png);
     position: absolute;
     top: 36.5%;
     left: 33.5%;
