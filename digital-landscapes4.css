@@ -106,6 +106,10 @@ html {
     /*   margin-top: 2vh; */
   }
 
+  .moon{
+    display: none;
+  }
+
   .linkStarOmiTeil{
     display: none;
   }
